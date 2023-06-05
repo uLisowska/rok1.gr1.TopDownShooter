@@ -4869,3 +4869,931 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.05-19.04.09:997][597]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main3884CCDB410293BE71A6E3857545A255.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
 [2023.06.05-19.04.10:007][597]AssetCheck: New page: Asset Save: Main
 [2023.06.05-19.04.10:007][597]LogContentValidation: Display: Validating World /Game/Main/Main.Main
+[2023.06.05-19.04.28:637][751]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.06.05-19.04.29:431][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Main" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.05-19.04.29:442][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.05-19.04.29:451][832]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/MainB784AC5545E9286F1D9FE59F8DF0E8D6.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
+[2023.06.05-19.04.29:461][832]AssetCheck: New page: Asset Save: Main
+[2023.06.05-19.04.29:462][832]LogContentValidation: Display: Validating World /Game/Main/Main.Main
+[2023.06.05-19.08.31:140][342]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.05-19.08.31:146][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.05-19.08.31:147][342]PIE: New page: PIE session: Main (5 cze 2023, 23:08:31)
+[2023.06.05-19.08.31:176][342]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.05-19.08.31:178][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001684s)
+[2023.06.05-19.08.31:179][342]LogAIModule: Creating AISystem for world Main
+[2023.06.05-19.08.31:179][342]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2023.06.05-19.08.31:179][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002636s)
+[2023.06.05-19.08.31:191][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.06.05-19.08.31:195][342]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.05-19.08.31:195][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.05-19.08.31:195][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.05-19.08.31:195][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.05-19.08.31:195][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.05-19.08.31:195][342]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.05-19.08.31:197][342]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.05-19.08.31:197][342]LogAudioMixer: Display: 1: FrontRight
+[2023.06.05-19.08.31:204][342]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.05-19.08.31:204][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.05-19.08.31:204][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.05-19.08.31:204][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.05-19.08.31:205][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.05-19.08.31:205][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.05-19.08.31:205][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.05-19.08.31:205][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.05-19.08.31:205][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.05-19.08.31:205][342]LogInit: FAudioDevice initialized.
+[2023.06.05-19.08.31:205][342]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main'.
+[2023.06.05-19.08.31:213][342]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.05-19.08.31:214][342]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.05-21.08.31
+[2023.06.05-19.08.31:214][342]LogWorld: Bringing up level for play took: 0.000354
+[2023.06.05-19.08.31:214][342]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2023.06.05-19.08.31:215][342]PIE: Server logged in
+[2023.06.05-19.08.31:216][342]PIE: Play in editor total start time 0,07 seconds.
+[2023.06.05-19.08.54:048][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-19.08.54:048][ 77]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.05-19.08.54:048][ 77]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-19.08.54:048][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-19.08.54:056][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.05-19.08.54:061][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-19.08.54:071][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-19.08.54:071][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-19.08.54:072][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-19.08.54:074][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-19.08.54:076][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.05-19.08.54:124][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.06.05-20.02.05:378][470]BlueprintLog: New page: Collapse to Function
+[2023.06.05-20.03.13:269][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.06.05-20.03.13:275][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.022
+[2023.06.05-20.03.13:275][231]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.05-20.03.13:287][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-20.03.13:298][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-20.03.13:298][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.05-20.03.13:313][231]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto89A228B14474B872796129B95C5139951.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto8.uasset'
+[2023.06.05-20.03.13:314][231]LogFileHelpers: Auto-saving content packages took 0.038
+[2023.06.05-20.06.06:672][824]BlueprintLog: New page: Collapse to Function
+[2023.06.05-20.09.51:608][217]BlueprintLog: New page: Collapse to Function
+[2023.06.05-20.11.42:053][220]BlueprintLog: New page: Collapse to Function
+[2023.06.05-20.13.27:800][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.06.05-20.13.27:804][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.021
+[2023.06.05-20.13.27:804][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.05-20.13.27:809][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-20.13.27:813][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-20.13.27:813][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.05-20.13.27:832][568]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto9D023F6794FA6E2FB58E507800AA76C4C.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto9.uasset'
+[2023.06.05-20.13.27:833][568]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.06.05-20.13.38:378][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Soldier" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset" SILENT=true
+[2023.06.05-20.13.38:397][532]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/SoldierAD56004A4BCD5844B29861847A0A3AEA.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset'
+[2023.06.05-20.13.38:405][532]AssetCheck: New page: Asset Save: Soldier
+[2023.06.05-20.13.38:405][532]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.05-20.20.03:541][ 41]BlueprintLog: New page: Compile Soldier
+[2023.06.05-20.20.03:573][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.06.05-20.20.03:985][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Soldier" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset" SILENT=true
+[2023.06.05-20.20.04:006][ 68]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier753FBBC0457688094EBBADAAF4D9116B.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset'
+[2023.06.05-20.20.04:013][ 68]AssetCheck: New page: Asset Save: Soldier
+[2023.06.05-20.20.04:013][ 68]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.05-20.21.09:003][473]LogSlate: Window 'Soldier' being destroyed
+[2023.06.05-20.21.09:010][473]LogSlate: Window 'Soldier' being destroyed
+[2023.06.05-20.21.09:017][473]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-20.21.09:017][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGun_Decals (OODLE_AutoDXT, 512X512)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: holo_layer_1_5 (OODLE_AutoDXT, 256X256)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: SightLens_maskA (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: T_PaintedMetal01_N (OODLE_BC5, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: T_ExampleLayers_Metal02_N (OODLE_BC5, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: SightLens_maskB (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: T_PaintedMetal02 (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGun_Display_EM (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: T_Rubber (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: T_Metal_Metal02_D (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGun_01_N (OODLE_BC5, 4096X4096)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGun_02_N (OODLE_BC5, 4096X4096)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGunT1_section (OODLE_AutoDXT, 4096X4096)
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGunT2_section (OODLE_AutoDXT, 4096X4096)
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGunT2_shade (OODLE_AutoDXT, 4096X4096)
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTexture: Display: Building textures: MagGunT1_shade (OODLE_AutoDXT, 4096X4096)
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.42.45:784][ 51]LogMaterial: Display: Missing cached shadermap for MagGun_MatB in PCD3D_SM5, Default, SM5 (DDC key hash: DFE52A8967D5C33BC29CF86AF69768F1D16CB697), compiling. 
+[2023.06.05-20.42.45:878][ 51]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2023.06.05-20.42.45:882][ 51]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 4250EAF28456DA2AD028EEE60E669A98F7EAC8EB), compiling. 
+[2023.06.05-20.42.45:927][ 51]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 97
+[2023.06.05-20.42.45:927][ 51]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 92
+[2023.06.05-20.42.45:927][ 51]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 87
+[2023.06.05-20.42.45:927][ 51]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 82
+[2023.06.05-20.42.45:927][ 51]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 77
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 72
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 67
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 62
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 57
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 52
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 47
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 42
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 37
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 32
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 27
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 22
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 17
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 12
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 7
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 2
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Started 97 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.42.45:928][ 51]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2023.06.05-20.42.45:931][ 51]LogMaterial: Display: Missing cached shadermap for MagGun_SightLens_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FEDC1459145DE9E7C293B003562E4622C822724), compiling. 
+[2023.06.05-20.42.45:950][ 51]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2023.06.05-20.42.45:951][ 51]LogSkeletalMesh: Display: [AssetLog] C:\Users\PC\Desktop\rok1.gr1.TopDownShooter\TopDownShooter\Content\Weapons\Rifle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.06.05-20.42.45:951][ 51]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2023.06.05-20.42.45:967][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Weapons/Rifle.Rifle
+[2023.06.05-20.42.45:988][ 51]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Rifle.Rifle
+[2023.06.05-20.42.45:992][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.05-20.42.49:365][142]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 8
+[2023.06.05-20.42.49:365][142]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.49:365][142]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 7
+[2023.06.05-20.42.49:365][142]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.49:382][142]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 6
+[2023.06.05-20.42.49:383][142]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.49:383][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.05-20.42.49:383][142]LogShaderCompilers: Display: Total job queries 218, among them cache hits 0 (0.00%)
+[2023.06.05-20.42.49:383][142]LogShaderCompilers: Display: Tracking 15 distinct input hashes that result in 14 distinct outputs (93.33%)
+[2023.06.05-20.42.49:383][142]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.06.05-20.42.49:383][142]LogShaderCompilers: Display: ================================================
+[2023.06.05-20.42.49:500][147]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 5
+[2023.06.05-20.42.49:500][147]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.49:930][161]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 4
+[2023.06.05-20.42.49:930][161]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.50:194][169]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 3
+[2023.06.05-20.42.50:194][169]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.50:339][175]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 2
+[2023.06.05-20.42.50:339][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.50:482][181]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 1
+[2023.06.05-20.42.50:482][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.42.50:799][195]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 113
+[2023.06.05-20.42.50:799][195]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.50:894][199]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 107
+[2023.06.05-20.42.50:894][199]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:088][207]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 101
+[2023.06.05-20.42.51:089][207]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:170][209]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 95
+[2023.06.05-20.42.51:171][209]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:318][214]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 90
+[2023.06.05-20.42.51:318][214]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:425][218]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 85
+[2023.06.05-20.42.51:425][218]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:496][221]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 80
+[2023.06.05-20.42.51:496][221]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:694][228]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 75
+[2023.06.05-20.42.51:694][228]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.51:785][231]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 71
+[2023.06.05-20.42.51:785][231]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.52:038][240]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 67
+[2023.06.05-20.42.52:038][240]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.52:079][241]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 63
+[2023.06.05-20.42.52:079][241]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.52:119][242]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 59
+[2023.06.05-20.42.52:119][242]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.52:181][243]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 56
+[2023.06.05-20.42.52:181][243]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.52:435][252]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 53
+[2023.06.05-20.42.52:435][252]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.53:158][277]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 50
+[2023.06.05-20.42.53:158][277]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.53:230][278]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatA_Inst3.MagGun_MatA_Inst3
+[2023.06.05-20.42.53:400][278]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2023.06.05-20.42.54:502][326]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 47
+[2023.06.05-20.42.54:502][326]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.54:527][327]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 44
+[2023.06.05-20.42.54:528][327]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.54:558][328]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 41
+[2023.06.05-20.42.54:559][328]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:057][350]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 38
+[2023.06.05-20.42.55:057][350]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:121][352]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 36
+[2023.06.05-20.42.55:121][352]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:493][368]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 34
+[2023.06.05-20.42.55:493][368]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:493][368]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 32
+[2023.06.05-20.42.55:493][368]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:689][377]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 30
+[2023.06.05-20.42.55:689][377]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:689][377]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 28
+[2023.06.05-20.42.55:689][377]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:803][382]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 26
+[2023.06.05-20.42.55:803][382]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.55:840][383]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 24
+[2023.06.05-20.42.55:840][383]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.56:483][408]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 22
+[2023.06.05-20.42.56:484][408]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.56:546][410]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 20
+[2023.06.05-20.42.56:546][410]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.56:602][412]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 18
+[2023.06.05-20.42.56:603][412]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.56:810][414]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 17
+[2023.06.05-20.42.56:810][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.56:896][414]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 16
+[2023.06.05-20.42.56:896][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:102][414]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 15
+[2023.06.05-20.42.57:102][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:102][414]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 14
+[2023.06.05-20.42.57:102][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:172][414]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 13
+[2023.06.05-20.42.57:172][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:244][414]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 12
+[2023.06.05-20.42.57:244][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:396][414]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 11
+[2023.06.05-20.42.57:396][414]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 10
+[2023.06.05-20.42.57:396][414]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:441][414]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 9
+[2023.06.05-20.42.57:441][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:516][414]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 8
+[2023.06.05-20.42.57:516][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:623][414]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 7
+[2023.06.05-20.42.57:623][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:679][414]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 6
+[2023.06.05-20.42.57:679][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:746][414]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 5
+[2023.06.05-20.42.57:746][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:903][414]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 4
+[2023.06.05-20.42.57:903][414]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 3
+[2023.06.05-20.42.57:903][414]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:938][414]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 2
+[2023.06.05-20.42.57:938][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.42.57:949][414]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 1
+[2023.06.05-20.42.57:949][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.43.09:331][317]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.05-20.43.13:825][661]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.05-20.43.15:472][797]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatB_Inst2.MagGun_MatB_Inst2
+[2023.06.05-20.43.21:221][251]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.05-20.43.24:030][510]LogSlate: Window 'MagGun_MatB_Inst2' being destroyed
+[2023.06.05-20.43.24:033][510]LogSlate: Window 'MagGun_MatB_Inst2' being destroyed
+[2023.06.05-20.43.24:048][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.06.05-20.43.24:107][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.05-20.43.24:116][510]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-20.43.24:116][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.43.24:140][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.05-20.43.24:176][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.05-20.43.24:185][510]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-20.43.24:185][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.43.54:745][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.05-20.43.54:749][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.015
+[2023.06.05-20.43.54:749][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Materials/MagGun_MatA_Inst3] ([1] browsable assets)...
+[2023.06.05-20.43.54:755][775]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatA_Inst3.MagGun_MatA_Inst3]
+[2023.06.05-20.43.54:755][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Materials/MagGun_MatA_Inst3]
+[2023.06.05-20.43.54:761][775]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/MagGun_MatA_Inst3_Auto0C528BA6C4E4966197A8B54976352D49A.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Weapons/Materials/MagGun_MatA_Inst3_Auto0.uasset'
+[2023.06.05-20.43.54:761][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Materials/MagGun_MatB_Inst2] ([1] browsable assets)...
+[2023.06.05-20.43.54:766][775]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatB_Inst2.MagGun_MatB_Inst2]
+[2023.06.05-20.43.54:766][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Materials/MagGun_MatB_Inst2]
+[2023.06.05-20.43.54:772][775]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/MagGun_MatB_Inst2_Auto0B686BF884A6A229814D7BD956C322E46.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Weapons/Materials/MagGun_MatB_Inst2_Auto0.uasset'
+[2023.06.05-20.43.54:772][775]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.06.05-20.44.07:743][305]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.05-20.45.32:096][194]LogEditorTransaction: Undo Attach Component
+[2023.06.05-20.45.32:143][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.05-20.45.32:615][217]LogEditorTransaction: Undo Add Component
+[2023.06.05-20.45.32:658][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.05-20.47.01:365][452]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2023.06.05-20.47.01:368][452]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.05-20.49.17:980][857]BlueprintLog: New page: Compile Soldier
+[2023.06.05-20.49.18:014][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.05-20.49.18:346][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Soldier" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset" SILENT=true
+[2023.06.05-20.49.18:367][877]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier9476EB354D704C4A87C834A44EC5998E.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset'
+[2023.06.05-20.49.18:376][877]AssetCheck: New page: Asset Save: Soldier
+[2023.06.05-20.49.18:376][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.05-20.49.20:171][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.05-20.49.20:178][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.05-20.49.20:178][ 41]PIE: New page: PIE session: Main (6 cze 2023, 00:49:20)
+[2023.06.05-20.49.20:206][ 41]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.05-20.49.20:208][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001944s)
+[2023.06.05-20.49.20:208][ 41]LogAIModule: Creating AISystem for world Main
+[2023.06.05-20.49.20:209][ 41]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2023.06.05-20.49.20:209][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002858s)
+[2023.06.05-20.49.20:224][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.05-20.49.20:225][ 41]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.05-20.49.20:225][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.05-20.49.20:225][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.05-20.49.20:225][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.05-20.49.20:225][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.05-20.49.20:225][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.05-20.49.20:227][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.05-20.49.20:227][ 41]LogAudioMixer: Display: 1: FrontRight
+[2023.06.05-20.49.20:235][ 41]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.05-20.49.20:235][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.05-20.49.20:235][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.05-20.49.20:235][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.05-20.49.20:236][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.05-20.49.20:236][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.05-20.49.20:236][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.05-20.49.20:236][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.05-20.49.20:236][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.05-20.49.20:237][ 41]LogInit: FAudioDevice initialized.
+[2023.06.05-20.49.20:237][ 41]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main'.
+[2023.06.05-20.49.20:247][ 41]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.05-20.49.20:248][ 41]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.05-22.49.20
+[2023.06.05-20.49.20:248][ 41]LogWorld: Bringing up level for play took: 0.000527
+[2023.06.05-20.49.20:248][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.06.05-20.49.20:250][ 41]PIE: Server logged in
+[2023.06.05-20.49.20:250][ 41]PIE: Play in editor total start time 0,072 seconds.
+[2023.06.05-20.49.28:667][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-20.49.28:667][ 46]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.05-20.49.28:667][ 46]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-20.49.28:667][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.49.28:675][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.05-20.49.28:679][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.49.28:690][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-20.49.28:690][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-20.49.28:691][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-20.49.28:693][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-20.49.28:695][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.05-20.49.28:746][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.06.05-20.50.07:035][420]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.05-20.51.32:679][907]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.05-20.51.32:685][907]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.05-20.54.03:582][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.05-20.54.03:586][171]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.017
+[2023.06.05-20.54.03:586][171]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.05-20.54.03:591][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-20.54.03:595][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-20.54.03:595][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.05-20.54.03:616][171]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto195B305264292E569DB321F806AAE7BED.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto1.uasset'
+[2023.06.05-20.54.03:616][171]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: T_muzzle_flashes (OODLE_AutoDXT, 128X256)
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: T_SquareMaskTightEdge (OODLE_AutoDXT, 512X512)
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: T_Lensflare_01 (OODLE_AutoDXT, 512X512)
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: T_Clouds_01 (OODLE_AutoDXT, 1024X1024)
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: T_SmokeBall_01_8_8 (OODLE_AutoDXT, 1024X1024)
+[2023.06.05-20.54.19:088][634]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-20.54.19:088][634]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.54.19:088][634]LogTexture: Display: Building textures: T_TileNoise (OODLE_AutoDXT, 2048X2048)
+[2023.06.05-20.54.19:088][634]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.54.19:088][634]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-20.54.19:088][634]LogMaterial: Display: Missing cached shadermap for M_MuzzleGlow in PCD3D_SM5, Default, SM5 (DDC key hash: 7BB6E4B44411111E46434476504D9D62DDBBA33B), compiling. 
+[2023.06.05-20.54.19:105][634]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:106][634]LogMaterial: Display: Missing cached shadermap for M_ImpactSmoke in PCD3D_SM5, Default, SM5 (DDC key hash: DF5A5F494049BD2BA5477CA3CA5807BF8B59B14C), compiling. 
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 56
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 53
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 50
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 47
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 44
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 41
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 38
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 35
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 32
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 29
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 26
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 23
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 20
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 17
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 14
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 11
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 8
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 5
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 2
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Started 56 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:165][634]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:170][634]LogStaticMesh: Building static mesh SM_MuzzleCone...
+[2023.06.05-20.54.19:170][634]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.05-20.54.19:172][634]LogStaticMesh: Built static mesh [0.00s] /Game/Effects/Misc/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone
+[2023.06.05-20.54.19:174][634]LogMaterial: Display: Missing cached shadermap for M_muzzle_flash_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 1DB232D1D49881183E4ADE40FFB4769CD90AD68D), compiling. 
+[2023.06.05-20.54.19:186][634]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:187][634]LogMaterial: Display: Missing cached shadermap for M_SmokeBall in PCD3D_SM5, Default, SM5 (DDC key hash: D713785F46A035D5C94FC394E7935CE9B603A44C), compiling. 
+[2023.06.05-20.54.19:202][634]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:204][634]LogMaterial: Display: Missing cached shadermap for M_SoftGradient_Muzzle in PCD3D_SM5, Default, SM5 (DDC key hash: B18353E84A83F551DEF736723A827C603E6538A1), compiling. 
+[2023.06.05-20.54.19:216][634]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 212
+[2023.06.05-20.54.19:217][634]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:217][634]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.06.05-20.54.19:218][634]LogMaterial: Display: Missing cached shadermap for M_Lensflare_01 in PCD3D_SM5, Default, SM5 (DDC key hash: A741E908F281DEA7DA83D6A19A51FD6E91353FFC), compiling. 
+[2023.06.05-20.54.19:229][634]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2023.06.05-20.54.20:638][684]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 274
+[2023.06.05-20.54.20:639][684]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.20:655][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.05-20.54.20:655][685]LogShaderCompilers: Display: Total job queries 855, among them cache hits 297 (34.74%)
+[2023.06.05-20.54.20:655][685]LogShaderCompilers: Display: Tracking 221 distinct input hashes that result in 162 distinct outputs (73.30%)
+[2023.06.05-20.54.20:655][685]LogShaderCompilers: Display: RAM used: 0.96 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.06.05-20.54.20:655][685]LogShaderCompilers: Display: ================================================
+[2023.06.05-20.54.20:686][685]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 264
+[2023.06.05-20.54.20:686][685]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.20:727][686]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 254
+[2023.06.05-20.54.20:727][686]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.20:786][688]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 244
+[2023.06.05-20.54.20:786][688]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.20:914][693]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 234
+[2023.06.05-20.54.20:914][693]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.20:969][695]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 224
+[2023.06.05-20.54.20:969][695]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.06.05-20.54.21:225][701]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 10
+[2023.06.05-20.54.21:226][701]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.21:256][702]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 9
+[2023.06.05-20.54.21:257][702]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.21:312][704]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 8
+[2023.06.05-20.54.21:313][704]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 7
+[2023.06.05-20.54.21:313][704]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.21:593][716]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 6
+[2023.06.05-20.54.21:593][716]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.21:972][730]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 5
+[2023.06.05-20.54.21:972][730]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.21:972][730]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 4
+[2023.06.05-20.54.21:972][730]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.22:005][731]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 3
+[2023.06.05-20.54.22:005][731]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.22:040][732]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 2
+[2023.06.05-20.54.22:041][732]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.22:567][752]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 1
+[2023.06.05-20.54.22:567][752]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.05-20.54.22:660][756]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 204
+[2023.06.05-20.54.22:660][756]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.22:673][756]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 194
+[2023.06.05-20.54.22:673][756]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.22:823][762]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 184
+[2023.06.05-20.54.22:823][762]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.22:848][763]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 174
+[2023.06.05-20.54.22:848][763]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.22:986][767]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 165
+[2023.06.05-20.54.22:986][767]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.23:033][768]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 156
+[2023.06.05-20.54.23:033][768]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.23:349][778]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 148
+[2023.06.05-20.54.23:349][778]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.26:422][906]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 140
+[2023.06.05-20.54.26:422][906]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.26:500][909]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 132
+[2023.06.05-20.54.26:501][909]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.26:733][918]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 125
+[2023.06.05-20.54.26:733][918]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.27:392][944]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 118
+[2023.06.05-20.54.27:393][944]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.27:538][950]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 112
+[2023.06.05-20.54.27:538][950]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.27:699][957]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 106
+[2023.06.05-20.54.27:699][957]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.27:768][959]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 100
+[2023.06.05-20.54.27:768][959]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.29:056][ 12]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 94
+[2023.06.05-20.54.29:057][ 12]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.29:804][ 35]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 89
+[2023.06.05-20.54.29:804][ 35]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.30:020][ 41]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 84
+[2023.06.05-20.54.30:020][ 41]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.31:602][ 91]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 79
+[2023.06.05-20.54.31:602][ 91]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.31:746][ 96]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 75
+[2023.06.05-20.54.31:746][ 96]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.31:909][101]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 71
+[2023.06.05-20.54.31:909][101]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:207][112]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 67
+[2023.06.05-20.54.32:207][112]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:529][124]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 63
+[2023.06.05-20.54.32:530][124]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:530][124]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 59
+[2023.06.05-20.54.32:530][124]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:530][124]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 56
+[2023.06.05-20.54.32:530][124]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:563][125]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 53
+[2023.06.05-20.54.32:563][125]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:659][129]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 50
+[2023.06.05-20.54.32:659][129]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.32:751][132]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 47
+[2023.06.05-20.54.32:751][132]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.33:319][149]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 44
+[2023.06.05-20.54.33:319][149]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.33:668][159]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 41
+[2023.06.05-20.54.33:668][159]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.33:863][165]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 38
+[2023.06.05-20.54.33:863][165]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:090][171]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 36
+[2023.06.05-20.54.34:090][171]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:131][172]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 34
+[2023.06.05-20.54.34:131][172]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:165][173]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 32
+[2023.06.05-20.54.34:165][173]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:242][176]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 30
+[2023.06.05-20.54.34:242][176]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:309][178]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 28
+[2023.06.05-20.54.34:309][178]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:335][179]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 26
+[2023.06.05-20.54.34:335][179]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:429][182]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 24
+[2023.06.05-20.54.34:429][182]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:732][192]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 22
+[2023.06.05-20.54.34:732][192]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:732][192]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 20
+[2023.06.05-20.54.34:732][192]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:897][197]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 18
+[2023.06.05-20.54.34:897][197]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.34:941][198]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 17
+[2023.06.05-20.54.34:941][198]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:008][200]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 16
+[2023.06.05-20.54.35:009][200]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:105][204]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 15
+[2023.06.05-20.54.35:105][204]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:125][204]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 14
+[2023.06.05-20.54.35:125][204]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:149][205]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 13
+[2023.06.05-20.54.35:149][205]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:149][205]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 12
+[2023.06.05-20.54.35:149][205]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:173][205]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 11
+[2023.06.05-20.54.35:173][205]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:195][206]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 10
+[2023.06.05-20.54.35:195][206]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:259][208]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 9
+[2023.06.05-20.54.35:259][208]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:342][211]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 8
+[2023.06.05-20.54.35:342][211]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:342][211]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 7
+[2023.06.05-20.54.35:342][211]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:369][212]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 6
+[2023.06.05-20.54.35:369][212]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:471][216]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 5
+[2023.06.05-20.54.35:471][216]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:500][217]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 4
+[2023.06.05-20.54.35:500][217]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 3
+[2023.06.05-20.54.35:500][217]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:500][217]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 2
+[2023.06.05-20.54.35:500][217]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.54.35:538][218]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 1
+[2023.06.05-20.54.35:538][218]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.05-20.58.29:661][787]BlueprintLog: New page: Compile Soldier
+[2023.06.05-20.58.29:693][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.06.05-20.58.31:391][954]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.05-20.58.31:397][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.05-20.58.31:397][954]PIE: New page: PIE session: Main (6 cze 2023, 00:58:31)
+[2023.06.05-20.58.31:397][954]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.05-20.58.31:399][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001757s)
+[2023.06.05-20.58.31:399][954]LogAIModule: Creating AISystem for world Main
+[2023.06.05-20.58.31:400][954]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2023.06.05-20.58.31:400][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002629s)
+[2023.06.05-20.58.31:413][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.06.05-20.58.31:414][954]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.05-20.58.31:414][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.05-20.58.31:414][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.05-20.58.31:414][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.05-20.58.31:414][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.05-20.58.31:414][954]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.05-20.58.31:416][954]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.05-20.58.31:416][954]LogAudioMixer: Display: 1: FrontRight
+[2023.06.05-20.58.31:423][954]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.05-20.58.31:423][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.05-20.58.31:423][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.05-20.58.31:423][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.05-20.58.31:424][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.05-20.58.31:424][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.05-20.58.31:424][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.05-20.58.31:425][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.05-20.58.31:425][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.05-20.58.31:425][954]LogInit: FAudioDevice initialized.
+[2023.06.05-20.58.31:425][954]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main'.
+[2023.06.05-20.58.31:430][954]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.05-20.58.31:431][954]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.05-22.58.31
+[2023.06.05-20.58.31:431][954]LogWorld: Bringing up level for play took: 0.000463
+[2023.06.05-20.58.31:431][954]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.06.05-20.58.31:433][954]PIE: Server logged in
+[2023.06.05-20.58.31:434][954]PIE: Play in editor total start time 0,038 seconds.
+[2023.06.05-20.58.39:916][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-20.58.39:916][962]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.05-20.58.39:916][962]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-20.58.39:916][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.58.39:927][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.05-20.58.39:931][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.58.39:942][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-20.58.39:942][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-20.58.39:943][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-20.58.39:947][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.05-20.58.39:966][963]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.06.05-20.58.40:765][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.06.05-20.58.45:827][660]Cmd: TRANSACTION UNDO
+[2023.06.05-20.58.45:827][660]LogEditorTransaction: Undo Scale Actors
+[2023.06.05-20.58.45:899][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.05-20.58.45:901][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.05-20.58.50:817][222]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.05-20.58.50:821][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.05-20.58.50:821][222]PIE: New page: PIE session: Main (6 cze 2023, 00:58:50)
+[2023.06.05-20.58.50:855][222]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.05-20.58.50:856][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2023.06.05-20.58.50:857][222]LogAIModule: Creating AISystem for world Main
+[2023.06.05-20.58.50:857][222]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2023.06.05-20.58.50:857][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002422s)
+[2023.06.05-20.58.50:868][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.06.05-20.58.50:870][222]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.05-20.58.50:870][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.05-20.58.50:870][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.05-20.58.50:870][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.05-20.58.50:870][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.05-20.58.50:870][222]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.05-20.58.50:871][222]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.05-20.58.50:872][222]LogAudioMixer: Display: 1: FrontRight
+[2023.06.05-20.58.50:879][222]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.05-20.58.50:879][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.05-20.58.50:879][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.05-20.58.50:879][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.05-20.58.50:880][222]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.05-20.58.50:880][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.05-20.58.50:880][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.05-20.58.50:881][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.05-20.58.50:881][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.05-20.58.50:881][222]LogInit: FAudioDevice initialized.
+[2023.06.05-20.58.50:881][222]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main'.
+[2023.06.05-20.58.50:885][222]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.05-20.58.50:886][222]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.05-22.58.50
+[2023.06.05-20.58.50:886][222]LogWorld: Bringing up level for play took: 0.000383
+[2023.06.05-20.58.50:886][222]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.06.05-20.58.50:888][222]PIE: Server logged in
+[2023.06.05-20.58.50:888][222]PIE: Play in editor total start time 0,068 seconds.
+[2023.06.05-20.59.12:497][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-20.59.12:497][808]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.05-20.59.12:497][808]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-20.59.12:497][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.59.12:502][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.05-20.59.12:510][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-20.59.12:521][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-20.59.12:521][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-20.59.12:522][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-20.59.12:525][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.06.05-20.59.12:570][810]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.06.05-21.04.34:323][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.06.05-21.04.34:337][909]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main_Auto21691543E4921B782BEA747A159DB8348.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Main/Main_Auto2.umap'
+[2023.06.05-21.04.34:339][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.032
+[2023.06.05-21.04.34:339][909]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.06.05-21.04.34:340][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.05-21.04.34:351][909]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-21.04.34:357][909]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-21.04.34:357][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.05-21.04.34:377][909]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto22CFCE04443FA7E584EF397A5E5297602.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto2.uasset'
+[2023.06.05-21.04.34:378][909]LogFileHelpers: Auto-saving content packages took 0.038
+[2023.06.05-21.12.36:352][546]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop02_Stereo...
+[2023.06.05-21.12.36:353][546]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo will be modified from 80 to 80.
+[2023.06.05-21.12.36:370][546]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 301920 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo.
+[2023.06.05-21.12.38:847][837]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop03_Stereo...
+[2023.06.05-21.12.38:847][837]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo will be modified from 80 to 80.
+[2023.06.05-21.12.38:864][837]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 317288 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo.
+[2023.06.05-21.12.40:143][987]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop01_Stereo...
+[2023.06.05-21.12.40:143][987]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo will be modified from 80 to 80.
+[2023.06.05-21.12.40:161][987]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 317292 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo.
+[2023.06.05-21.13.08:369][ 87]LogSlate: Window 'Marine_Skeleton' being destroyed
+[2023.06.05-21.13.08:373][ 87]LogSlate: Window 'Marine_Skeleton' being destroyed
+[2023.06.05-21.13.08:373][ 87]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-21.13.08:373][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.13.08:436][ 87]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-21.13.08:436][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.13.08:477][ 87]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-21.13.08:477][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.13.13:714][698]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.06.05-21.13.13:722][698]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.06.05-21.13.21:717][654]LogContentBrowser: Attempting asset rename: NewSoundCue -> RiffleFireLoop
+[2023.06.05-21.13.21:718][654]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.06.05-21.13.33:482][522]LogContentBrowser: Attempting asset rename: RiffleFireLoop -> RiffleFireLoop
+[2023.06.05-21.13.34:711][667]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2023.06.05-21.13.34:711][667]LogContentBrowser: Attempting asset rename: RiffleFireLoop -> RiffleFireLoop
+[2023.06.05-21.13.34:718][667]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop.RiffleFireLoop
+[2023.06.05-21.13.44:853][840]LogContentBrowser: Attempting asset rename: RiffleFireLoop -> RiffleFireLoop_Cue
+[2023.06.05-21.13.44:870][840]LogMetaData: Removing '/Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue.RiffleFireLoop_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop.PackageMetaData'
+[2023.06.05-21.13.44:884][840]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/RiffleFireLoop_CueD2FC310941E1B3BCDD969D8C7A31033F.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue.uasset'
+[2023.06.05-21.13.44:928][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.06.05-21.13.44:949][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.06.05-21.13.44:958][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.05-21.13.44:972][840]AssetCheck: New page: Asset Save: RiffleFireLoop_Cue
+[2023.06.05-21.13.44:972][840]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue.RiffleFireLoop_Cue
+[2023.06.05-21.14.34:665][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.06.05-21.14.34:674][236]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main_Auto325ECB3724A5F582D4763AEAC9830C3FE.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Main/Main_Auto3.umap'
+[2023.06.05-21.14.34:676][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.025
+[2023.06.05-21.14.34:676][236]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2023.06.05-21.14.34:676][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.05-21.14.34:696][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-21.14.34:707][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-21.14.34:707][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.05-21.14.34:728][236]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto37CC95FF2412B595B1F0FA88FD0CE213B.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto3.uasset'
+[2023.06.05-21.14.34:729][236]LogFileHelpers: Auto-saving content packages took 0.053
+[2023.06.05-21.15.44:082][474]LogEditorTransaction: Undo Move Nodes
+[2023.06.05-21.15.44:539][496]LogEditorTransaction: Undo Move Nodes
+[2023.06.05-21.15.54:719][482]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue.RiffleFireLoop_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.06.05-21.18.56:927][849]LogSlate: Window 'RiffleFireLoop_Cue' being destroyed
+[2023.06.05-21.18.56:935][849]LogSlate: Window 'RiffleFireLoop_Cue' being destroyed
+[2023.06.05-21.19.06:597][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.05-21.22.38:772][133]BlueprintLog: New page: Compile Soldier
+[2023.06.05-21.22.38:804][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.05-21.22.40:317][280]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.05-21.22.40:327][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.05-21.22.40:327][280]PIE: New page: PIE session: Main (6 cze 2023, 01:22:40)
+[2023.06.05-21.22.40:352][280]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.05-21.22.40:354][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001812s)
+[2023.06.05-21.22.40:355][280]LogAIModule: Creating AISystem for world Main
+[2023.06.05-21.22.40:355][280]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2023.06.05-21.22.40:355][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002657s)
+[2023.06.05-21.22.40:367][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.06.05-21.22.40:368][280]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.05-21.22.40:368][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.05-21.22.40:368][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.05-21.22.40:368][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.05-21.22.40:368][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.05-21.22.40:368][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.05-21.22.40:369][280]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.05-21.22.40:370][280]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.05-21.22.40:370][280]LogAudioMixer: Display: 1: FrontRight
+[2023.06.05-21.22.40:378][280]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.05-21.22.40:379][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.05-21.22.40:379][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.05-21.22.40:379][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.05-21.22.40:379][280]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.05-21.22.40:379][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.05-21.22.40:379][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.05-21.22.40:380][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.05-21.22.40:380][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.05-21.22.40:380][280]LogInit: FAudioDevice initialized.
+[2023.06.05-21.22.40:380][280]LogAudio: Display: Audio Device (ID: 27) registered with world 'Main'.
+[2023.06.05-21.22.40:385][280]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.05-21.22.40:385][280]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.05-23.22.40
+[2023.06.05-21.22.40:385][280]LogWorld: Bringing up level for play took: 0.000372
+[2023.06.05-21.22.40:385][280]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.06.05-21.22.40:387][280]PIE: Server logged in
+[2023.06.05-21.22.40:388][280]PIE: Play in editor total start time 0,062 seconds.
+[2023.06.05-21.22.52:754][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-21.22.52:754][758]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.05-21.22.52:754][758]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-21.22.52:754][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.22.52:762][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.05-21.22.52:770][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.22.52:780][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-21.22.52:780][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-21.22.52:781][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-21.22.52:783][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-21.22.52:784][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.05-21.22.52:832][760]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.06.05-21.23.46:927][651]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.06.05-21.23.46:935][651]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.06.05-21.23.55:767][709]LogContentBrowser: Attempting asset rename: NewSoundCue -> RiffleFireEnd_Cue
+[2023.06.05-21.23.55:767][709]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.06.05-21.23.59:021][ 86]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireEnd_Cue.RiffleFireEnd_Cue
+[2023.06.05-21.24.09:064][ 59]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_Shot06_Stereo...
+[2023.06.05-21.24.09:064][ 59]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot06_Stereo.AssaultRifle_Shot06_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.09:081][ 59]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 353940 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot06_Stereo.AssaultRifle_Shot06_Stereo.
+[2023.06.05-21.24.13:619][524]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Empty01_Stereo...
+[2023.06.05-21.24.13:619][524]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty01_Stereo.Weapon_AssaultRifle_Empty01_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.13:634][524]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 87664 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty01_Stereo.Weapon_AssaultRifle_Empty01_Stereo.
+[2023.06.05-21.24.16:549][818]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd06_Stereo...
+[2023.06.05-21.24.16:549][818]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.AssaultRifle_ShotEnd06_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.16:565][818]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 315384 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.AssaultRifle_ShotEnd06_Stereo.
+[2023.06.05-21.24.18:319][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd05_Stereo...
+[2023.06.05-21.24.18:319][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.AssaultRifle_ShotEnd05_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.18:337][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 328084 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.AssaultRifle_ShotEnd05_Stereo.
+[2023.06.05-21.24.24:712][670]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd01_Stereo...
+[2023.06.05-21.24.24:713][670]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.AssaultRifle_ShotEnd01_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.24:727][670]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 256020 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.AssaultRifle_ShotEnd01_Stereo.
+[2023.06.05-21.24.27:283][934]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd04_Stereo...
+[2023.06.05-21.24.27:283][934]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.AssaultRifle_ShotEnd04_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.27:299][934]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 272260 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.AssaultRifle_ShotEnd04_Stereo.
+[2023.06.05-21.24.27:593][962]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd03_Stereo...
+[2023.06.05-21.24.27:593][962]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.AssaultRifle_ShotEnd03_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.27:608][962]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 304952 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.AssaultRifle_ShotEnd03_Stereo.
+[2023.06.05-21.24.28:334][ 34]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd02_Stereo...
+[2023.06.05-21.24.28:334][ 34]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.AssaultRifle_ShotEnd02_Stereo will be modified from 80 to 80.
+[2023.06.05-21.24.28:351][ 34]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 316788 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.AssaultRifle_ShotEnd02_Stereo.
+[2023.06.05-21.24.57:117][653]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireEnd_Cue.RiffleFireEnd_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.06.05-21.25.29:635][104]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/RiffleFireEnd_Cue7F60EAD14F4D6530A5B452923692B8EA.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireEnd_Cue.uasset'
+[2023.06.05-21.25.29:645][104]AssetCheck: New page: Asset Save: RiffleFireEnd_Cue
+[2023.06.05-21.25.29:645][104]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireEnd_Cue.RiffleFireEnd_Cue
+[2023.06.05-21.25.35:195][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.06.05-21.25.35:199][668]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.021
+[2023.06.05-21.25.35:200][668]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.05-21.25.35:208][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-21.25.35:212][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.05-21.25.35:212][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.05-21.25.35:236][668]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto4B511F35D479CB939908CBF9EA7F8A7AA.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto4.uasset'
+[2023.06.05-21.25.35:237][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue] ([1] browsable assets)...
+[2023.06.05-21.25.35:237][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue]
+[2023.06.05-21.25.35:239][668]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/RiffleFireLoop_Cue_Auto40DDD6B37414C59DBAA5E35AB1DEC8AE0.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue_Auto4.uasset'
+[2023.06.05-21.25.35:240][668]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.06.05-21.26.16:226][813]BlueprintLog: New page: Compile Soldier
+[2023.06.05-21.26.16:257][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.06.05-21.26.16:555][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/Soldier" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset" SILENT=true
+[2023.06.05-21.26.16:580][833]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier766C58B44591D5DFEF9D21B93748A0C1.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/Soldier.uasset'
+[2023.06.05-21.26.16:590][833]AssetCheck: New page: Asset Save: Soldier
+[2023.06.05-21.26.16:590][833]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.05-21.27.04:959][270]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.05-21.27.04:964][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.05-21.27.04:965][270]PIE: New page: PIE session: Main (6 cze 2023, 01:27:04)
+[2023.06.05-21.27.04:992][270]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.05-21.27.04:993][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001763s)
+[2023.06.05-21.27.04:994][270]LogAIModule: Creating AISystem for world Main
+[2023.06.05-21.27.04:994][270]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2023.06.05-21.27.04:994][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002690s)
+[2023.06.05-21.27.05:007][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.05-21.27.05:008][270]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.05-21.27.05:008][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.05-21.27.05:008][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.05-21.27.05:008][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.05-21.27.05:008][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.05-21.27.05:008][270]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.05-21.27.05:010][270]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.05-21.27.05:010][270]LogAudioMixer: Display: 1: FrontRight
+[2023.06.05-21.27.05:017][270]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.05-21.27.05:017][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.05-21.27.05:017][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.05-21.27.05:017][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.05-21.27.05:018][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.05-21.27.05:018][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.05-21.27.05:018][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.05-21.27.05:019][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.05-21.27.05:019][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.05-21.27.05:019][270]LogInit: FAudioDevice initialized.
+[2023.06.05-21.27.05:019][270]LogAudio: Display: Audio Device (ID: 28) registered with world 'Main'.
+[2023.06.05-21.27.05:028][270]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.05-21.27.05:029][270]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.05-23.27.05
+[2023.06.05-21.27.05:029][270]LogWorld: Bringing up level for play took: 0.000364
+[2023.06.05-21.27.05:029][270]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2023.06.05-21.27.05:031][270]PIE: Server logged in
+[2023.06.05-21.27.05:031][270]PIE: Play in editor total start time 0,068 seconds.
+[2023.06.05-21.27.20:633][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-21.27.20:633][138]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.05-21.27.20:633][138]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-21.27.20:634][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.27.20:641][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.05-21.27.20:649][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-21.27.20:660][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-21.27.20:660][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-21.27.20:661][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.05-21.27.20:662][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.05-21.27.20:664][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.05-21.27.20:716][141]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.06.05-21.27.22:002][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.05-21.27.22:014][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Main" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.05-21.27.22:024][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.05-21.27.22:031][294]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main7023D23D4682190DA5FDC3A456956700.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
+[2023.06.05-21.27.22:039][294]LogFileHelpers: Saving map 'Main' took 0.026
+[2023.06.05-21.27.22:041][294]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/MagGun_MatA_Inst36BFCB63D4114AC73256A91AEA4D5E09E.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Weapons/Materials/MagGun_MatA_Inst3.uasset'
+[2023.06.05-21.27.22:044][294]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/MagGun_MatB_Inst29567FCE54A6DAB1ABB35088ACF0D8F18.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Weapons/Materials/MagGun_MatB_Inst2.uasset'
+[2023.06.05-21.27.22:046][294]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/RiffleFireLoop_CueA5ACB79D4ECE4E255F13DC818CDA39EA.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue.uasset'
+[2023.06.05-21.27.22:053][294]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.05-21.27.22:053][294]LogContentValidation: Display: Validating World /Game/Main/Main.Main
+[2023.06.05-21.27.22:054][294]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RiffleFireLoop_Cue.RiffleFireLoop_Cue
+[2023.06.05-21.27.22:054][294]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatB_Inst2.MagGun_MatB_Inst2
+[2023.06.05-21.27.22:054][294]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Weapons/Materials/MagGun_MatA_Inst3.MagGun_MatA_Inst3
