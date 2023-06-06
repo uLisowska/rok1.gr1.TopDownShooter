@@ -5416,3 +5416,1616 @@ BP_Spider_C.ReceiveBeginPlay
 [2023.06.06-09.01.58:633][ 28]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main88550FF8472B5B8970A8D59B02879A48.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
 [2023.06.06-09.01.58:643][ 28]AssetCheck: New page: Asset Save: Main
 [2023.06.06-09.01.58:643][ 28]LogContentValidation: Display: Validating World /Game/Main/Main.Main
+[2023.06.06-09.07.51:528][627]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.07.51:528][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.07.51:561][627]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.07.51:561][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.08.01:011][720]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene
+[2023.06.06-09.08.01:014][720]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.08.01:312][720]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.06.06-09.08.18:339][436]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.08.18:358][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.08.18:376][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.06.06-09.08.18:384][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.08.18:384][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.08.18:384][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.08.18:384][436]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.08.18:403][437]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.08.18:403][437]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.08.18:403][437]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.08.18:403][437]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_91:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_1
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.08.56:727][816]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.06-09.08.56:738][816]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.06-09.09.16:712][706]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Marine/Materials/M_Marine.M_Marine
+[2023.06.06-09.09.16:713][706]LogMaterial: Display: Missing cached shadermap for M_Marine in PCD3D_SM5, Default, SM5 (DDC key hash: DD543D1C0D78167B2895AA73407A1DCFBCC95BB0), compiling. 
+[2023.06.06-09.09.16:745][706]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Normal' priority
+[2023.06.06-09.09.16:776][706]LogMaterial: Display: Missing cached shadermap for M_Marine in PCD3D_SM5, Default, SM5 (DDC key hash: 74FFEC261F57DB7B221D8DE51849C810E365C353), compiling. 
+[2023.06.06-09.09.16:780][706]LogMaterial: Display: Missing cached shadermap for M_Marine in PCD3D_SM5, Default, SM5 (DDC key hash: 377F380D4E96A875BD3828050CBE5307F369D29C), compiling. 
+[2023.06.06-09.09.16:783][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 13F397FA79AE37EF9771BBD3C3749A478C176ADD), compiling. 
+[2023.06.06-09.09.16:783][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 466D6ACCA33DD0046B44E83AF97361C80B10DC76), compiling. 
+[2023.06.06-09.09.16:784][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B74385EEFB582BFCD7BBEED35035E2262D55BB4), compiling. 
+[2023.06.06-09.09.16:785][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 87D8DD597A762AED810836F7E98F9F8761919538), compiling. 
+[2023.06.06-09.09.16:785][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A3192CD8DCF1B9CB97A10B03180AC09A082FC90), compiling. 
+[2023.06.06-09.09.16:786][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A5FDCD742A2D3482E3A27CC16B84BFA9C07FC647), compiling. 
+[2023.06.06-09.09.16:786][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: FC0673EEBD500C4A87FD9868E27B08B7F21D484C), compiling. 
+[2023.06.06-09.09.16:787][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3769FA9FFE24F4B080E9AD05422FC9C2F9C1B6C7), compiling. 
+[2023.06.06-09.09.16:788][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E3F3501CD4B5D8A321941BB3935B485704FBEF5D), compiling. 
+[2023.06.06-09.09.16:788][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FF21BE9A2B41F40B5F1C249405A8C70E2989108), compiling. 
+[2023.06.06-09.09.16:789][706]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_6 in PCD3D_SM5, Default, SM5 (DDC key hash: E971C3FB5D9FF0C18D5B24AE6D678E415807BDB3), compiling. 
+[2023.06.06-09.09.16:796][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.06-09.09.16:796][706]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.06.06-09.09.16:796][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.06-09.09.16:834][707]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.16:834][707]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2023.06.06-09.09.16:834][707]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2023.06.06-09.09.16:834][707]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Normal' priority
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 56
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 53
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 50
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 47
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 44
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 41
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 38
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 35
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 32
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 29
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 26
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 23
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 20
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 17
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 14
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 11
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 8
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 5
+[2023.06.06-09.09.16:855][708]LogShaderCompilers: Display: Started 54 'Local' shader compile jobs with 'Normal' priority
+[2023.06.06-09.09.18:202][764]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 2
+[2023.06.06-09.09.18:202][764]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.06-09.09.18:207][764]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.06-09.09.18:207][764]LogShaderCompilers: Display: Total job queries 198, among them cache hits 40 (20.20%)
+[2023.06.06-09.09.18:207][764]LogShaderCompilers: Display: Tracking 43 distinct input hashes that result in 28 distinct outputs (65.12%)
+[2023.06.06-09.09.18:207][764]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.06.06-09.09.18:207][764]LogShaderCompilers: Display: ================================================
+[2023.06.06-09.09.18:733][786]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2023.06.06-09.09.18:733][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.06-09.09.18:976][798]MaterialEditorStats: Texture samplers: 12/16
+[2023.06.06-09.09.18:976][798]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.06.06-09.09.18:976][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: Base pass shader: 266 instructions
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 340 instructions
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: Texture samplers: 12/16
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.06.06-09.09.20:433][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.06-09.09.22:109][ 18]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:119][ 19]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2023.06.06-09.09.22:119][ 19]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2023.06.06-09.09.22:119][ 19]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:542][ 49]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:542][ 49]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2023.06.06-09.09.22:542][ 49]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2023.06.06-09.09.22:542][ 49]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 2
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 1
+[2023.06.06-09.09.22:564][ 50]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 2
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 1
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 4
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 3
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 2
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 1
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:579][ 51]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:580][ 51]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.22:614][ 52]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 4
+[2023.06.06-09.09.22:614][ 52]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 3
+[2023.06.06-09.09.22:614][ 52]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 2
+[2023.06.06-09.09.22:614][ 52]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 1
+[2023.06.06-09.09.22:614][ 52]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.06-09.09.26:752][323]LogSlate: Window 'M_Marine' being destroyed
+[2023.06.06-09.09.26:756][323]LogSlate: Window 'M_Marine' being destroyed
+[2023.06.06-09.09.26:759][323]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:760][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:797][323]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:797][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:800][323]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:800][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:851][323]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:851][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:863][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.06-09.09.26:864][323]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:864][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:904][323]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:904][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:907][323]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:907][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:949][323]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:950][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.26:960][323]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.26:960][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.28:416][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/Soldier.Soldier
+[2023.06.06-09.09.44:296][738]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.09.44:336][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.06.06-09.09.46:035][896]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.09.46:039][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.09.46:039][896]PIE: New page: PIE session: Main (6 cze 2023, 13:09:46)
+[2023.06.06-09.09.46:039][896]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.09.46:041][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001942s)
+[2023.06.06-09.09.46:042][896]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.09.46:042][896]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2023.06.06-09.09.46:042][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002650s)
+[2023.06.06-09.09.46:054][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.06-09.09.46:056][896]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.09.46:056][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.09.46:056][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.09.46:056][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.09.46:056][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.09.46:056][896]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.09.46:057][896]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.09.46:057][896]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.09.46:065][896]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.09.46:065][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.09.46:065][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.09.46:065][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.09.46:066][896]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.09.46:066][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.09.46:066][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.09.46:066][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.09.46:066][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.09.46:066][896]LogInit: FAudioDevice initialized.
+[2023.06.06-09.09.46:066][896]LogAudio: Display: Audio Device (ID: 56) registered with world 'Main'.
+[2023.06.06-09.09.46:072][896]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.09.46:073][896]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.09.46
+[2023.06.06-09.09.46:073][896]LogWorld: Bringing up level for play took: 0.000754
+[2023.06.06-09.09.46:074][896]LogOnline: OSS: Creating online subsystem instance for: :Context_149
+[2023.06.06-09.09.46:076][896]PIE: Server logged in
+[2023.06.06-09.09.46:076][896]PIE: Play in editor total start time 0,038 seconds.
+[2023.06.06-09.09.56:863][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.09.56:864][186]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.09.56:864][186]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.09.56:864][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.56:873][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.09.56:883][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.09.56:895][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.09.56:895][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.09.56:896][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.09.56:898][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.09.56:899][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.06-09.09.56:944][188]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2023.06.06-09.10.39:785][ 82]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene
+[2023.06.06-09.10.39:788][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.10.40:080][ 82]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.06.06-09.11.57:437][719]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.11.57:482][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.57:588][723]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.57:630][723]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.57:772][728]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.11.57:810][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.57:922][733]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.57:960][733]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.58:072][740]LogEditorTransaction: Undo Move Nodes
+[2023.06.06-09.11.58:114][740]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.58:214][747]LogEditorTransaction: Undo Move Nodes
+[2023.06.06-09.11.58:256][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.58:354][754]LogEditorTransaction: Undo Move Nodes
+[2023.06.06-09.11.58:396][754]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.58:520][763]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.11.58:563][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.58:683][772]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.58:726][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.58:847][781]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.58:889][781]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.59:029][792]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.59:071][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.59:424][823]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.59:467][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.11.59:833][855]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.11.59:875][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.00:009][865]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.12.00:055][865]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.00:148][871]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.12.00:191][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.00:505][896]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.12.00:548][896]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.00:840][920]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.12.00:883][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.01:222][948]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.12.01:263][948]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.03:179][113]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.12.03:223][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.04:652][234]LogEditorTransaction: Redo Add Node
+[2023.06.06-09.12.04:695][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.12.04:951][254]LogEditorTransaction: Redo Move Node
+[2023.06.06-09.12.04:994][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.14.51:608][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.06.06-09.14.51:623][972]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.043
+[2023.06.06-09.14.51:624][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/W_PlayerHud] ([2] browsable assets)...
+[2023.06.06-09.14.51:624][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHud]
+[2023.06.06-09.14.51:633][972]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/W_PlayerHud_Auto4C6975F144086DA9C74F89E967942A670.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/UI/W_PlayerHud_Auto4.uasset'
+[2023.06.06-09.14.51:634][972]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.06-09.14.51:657][972]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/Soldier.Soldier_C]
+[2023.06.06-09.14.51:670][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.06-09.14.51:682][972]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/Soldier.Soldier_C]
+[2023.06.06-09.14.51:694][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.06-09.14.51:694][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.06-09.14.51:726][972]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto42EFBADE34668A04452FE74A2DA37BEA5.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto4.uasset'
+[2023.06.06-09.14.51:727][972]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/Animation_Mariene] ([2] browsable assets)...
+[2023.06.06-09.14.51:739][972]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.14.51:739][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/Animation_Mariene]
+[2023.06.06-09.14.51:756][972]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Animation_Mariene_Auto492E71E454277F68F18F8E7BE93125D17.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/Animation_Mariene_Auto4.uasset'
+[2023.06.06-09.14.51:757][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy_Great_Spider/Animations/SpiderAttack1] ([1] browsable assets)...
+[2023.06.06-09.14.51:770][972]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/Enemy_Great_Spider/Animations/SpiderAttack1.SpiderAttack1]
+[2023.06.06-09.14.51:770][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Great_Spider/Animations/SpiderAttack1]
+[2023.06.06-09.14.51:775][972]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/SpiderAttack1_Auto4D24AE67E47511E4296327087283FEE89.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Enemy_Great_Spider/Animations/SpiderAttack1_Auto4.uasset'
+[2023.06.06-09.14.51:776][972]LogFileHelpers: Auto-saving content packages took 0.152
+[2023.06.06-09.15.15:478][276]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.15.15:505][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.06-09.15.32:706][ 14]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.15.32:749][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.54:855][570]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.54:901][570]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.55:063][577]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.55:108][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.55:199][580]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.55:237][580]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.55:360][585]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.55:403][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.55:488][590]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.17.55:530][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.55:788][608]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.55:830][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.55:964][617]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.17.56:005][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.57:545][744]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.17.57:587][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.57:700][750]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.57:741][750]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.57:858][757]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.17.57:901][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.58:013][764]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.17.58:054][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.58:180][772]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.17.58:223][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.58:324][778]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.17.58:366][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.58:824][814]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.17.58:867][814]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.58:977][821]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.59:020][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.59:126][827]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.59:169][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.59:268][833]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.59:311][833]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.59:413][839]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.59:456][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.59:565][846]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.59:609][846]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.59:708][852]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.17.59:751][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.17.59:868][859]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.17.59:910][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:005][864]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.00:049][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:160][871]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.18.00:204][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:323][878]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.00:365][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:485][885]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.00:527][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:639][892]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.00:683][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:794][899]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.18.00:836][899]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.00:939][905]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.18.00:981][905]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.01:084][911]LogEditorTransaction: Undo Change Parameter Type
+[2023.06.06-09.18.01:126][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.01:251][918]LogEditorTransaction: Undo Rename Variable
+[2023.06.06-09.18.01:293][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.01:425][926]LogEditorTransaction: Undo Add Variable
+[2023.06.06-09.18.01:468][926]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.01:575][932]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.01:616][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.01:742][940]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.18.01:785][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.01:899][947]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.18.01:941][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.02:064][955]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.02:106][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.02:246][964]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.02:289][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.02:412][972]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.18.02:455][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.02:593][981]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.02:636][981]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.02:763][989]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.18.02:806][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.02:913][995]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.02:956][995]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.03:095][  4]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.03:138][  4]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.03:274][ 13]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.18.03:317][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.03:432][ 20]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.18.03:476][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.03:609][ 29]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.18.03:652][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.03:791][ 38]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.03:833][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.10:855][570]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.10:900][570]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.11:066][576]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.11:109][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.11:212][579]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.11:251][579]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.11:366][583]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.11:409][583]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.11:558][593]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.11:601][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.11:784][606]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.18.11:827][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.11:945][613]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.18.11:987][613]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.12:097][619]LogEditorTransaction: Undo Edit Anim Class
+[2023.06.06-09.18.12:137][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.12:259][626]LogEditorTransaction: Undo Reset Rotation
+[2023.06.06-09.18.12:299][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.13:061][685]LogEditorTransaction: Undo Reset Location
+[2023.06.06-09.18.13:100][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.13:251][695]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.06-09.18.13:293][695]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.13:735][729]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.06-09.18.13:775][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.13:920][739]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.06-09.18.13:960][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.14:127][751]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.06-09.18.14:167][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.16:409][934]LogEditorTransaction: Redo Modify Component(s)
+[2023.06.06-09.18.16:449][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.16:654][949]LogEditorTransaction: Redo Modify Component(s)
+[2023.06.06-09.18.16:694][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.16:875][962]LogEditorTransaction: Redo Modify Component(s)
+[2023.06.06-09.18.16:916][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.17:105][976]LogEditorTransaction: Redo Modify Component(s)
+[2023.06.06-09.18.17:146][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.17:349][991]LogEditorTransaction: Redo Reset Location
+[2023.06.06-09.18.17:389][991]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.17:676][ 12]LogEditorTransaction: Redo Reset Rotation
+[2023.06.06-09.18.17:716][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.17:961][ 30]LogEditorTransaction: Redo Edit Anim Class
+[2023.06.06-09.18.18:003][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.18:281][ 51]LogEditorTransaction: Redo Move Node
+[2023.06.06-09.18.18:323][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.18:542][ 67]LogEditorTransaction: Redo Add Node
+[2023.06.06-09.18.18:584][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.19:604][149]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.18.19:647][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.18.21:359][281]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.18.21:375][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.18.21:375][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.18.21:375][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.18.21:375][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.18.21:376][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.18.21:376][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.18.21:376][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.18.21:376][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.18.21:395][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.06-09.18.21:401][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.18.21:401][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.18.21:401][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.18.21:401][281]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.18.21:417][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.18.21:417][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.18.21:417][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.18.21:417][282]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.18.21:431][283]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.18.21:431][283]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.18.21:431][283]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.18.21:431][283]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_2
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.19.38:518][659]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.19.38:532][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_4
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.19.38:532][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_4
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.19.38:532][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_4
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.19.38:532][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_4
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.19.38:533][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.19.38:533][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.19.38:533][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.19.38:533][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.19.38:545][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.06.06-09.19.38:551][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.19.38:551][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.19.38:551][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.19.38:551][659]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.19.38:566][660]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:0040
+[2023.06.06-09.19.38:566][660]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00D0
+[2023.06.06-09.19.38:566][660]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:017A
+[2023.06.06-09.19.38:566][660]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_3
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:01AC
+[2023.06.06-09.19.41:527][964]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.19.41:533][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.19.41:533][964]PIE: New page: PIE session: Main (6 cze 2023, 13:19:41)
+[2023.06.06-09.19.41:533][964]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.19.41:535][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002133s)
+[2023.06.06-09.19.41:536][964]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.19.41:536][964]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2023.06.06-09.19.41:536][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002970s)
+[2023.06.06-09.19.41:548][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.06.06-09.19.41:550][964]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.19.41:550][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.19.41:550][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.19.41:551][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.19.41:551][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.19.41:551][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.19.41:551][964]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.19.41:552][964]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.19.41:552][964]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.19.41:560][964]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.19.41:560][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.19.41:560][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.19.41:560][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.19.41:560][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.19.41:560][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.19.41:560][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.19.41:561][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.19.41:561][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.19.41:561][964]LogInit: FAudioDevice initialized.
+[2023.06.06-09.19.41:561][964]LogAudio: Display: Audio Device (ID: 57) registered with world 'Main'.
+[2023.06.06-09.19.41:566][964]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.19.41:566][964]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.19.41
+[2023.06.06-09.19.41:567][964]LogWorld: Bringing up level for play took: 0.000724
+[2023.06.06-09.19.41:567][964]LogOnline: OSS: Creating online subsystem instance for: :Context_154
+[2023.06.06-09.19.41:569][964]PIE: Server logged in
+[2023.06.06-09.19.41:569][964]PIE: Play in editor total start time 0,038 seconds.
+[2023.06.06-09.19.58:243][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.19.58:243][958]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.19.58:243][958]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.19.58:243][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.19.58:251][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.19.58:261][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.19.58:274][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.19.58:274][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.19.58:275][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.19.58:278][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.06-09.19.58:325][960]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2023.06.06-09.19.59:853][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Main" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.06-09.19.59:866][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.06.06-09.19.59:873][142]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main37AE49FA403C49C6DC978FB957E8DD52.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
+[2023.06.06-09.19.59:884][142]AssetCheck: New page: Asset Save: Main
+[2023.06.06-09.19.59:884][142]LogContentValidation: Display: Validating World /Game/Main/Main.Main
+[2023.06.06-09.21.26:368][993]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.21.26:372][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.21.26:373][993]PIE: New page: PIE session: Main (6 cze 2023, 13:21:26)
+[2023.06.06-09.21.26:402][993]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.21.26:404][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002083s)
+[2023.06.06-09.21.26:405][993]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.21.26:405][993]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2023.06.06-09.21.26:405][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002899s)
+[2023.06.06-09.21.26:421][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.06-09.21.26:425][993]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.21.26:425][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.21.26:425][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.21.26:426][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.21.26:426][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.21.26:426][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.21.26:426][993]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.21.26:427][993]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.21.26:427][993]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.21.26:434][993]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.21.26:435][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.21.26:435][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.21.26:435][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.21.26:435][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.21.26:435][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.21.26:435][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.21.26:436][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.21.26:436][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.21.26:436][993]LogInit: FAudioDevice initialized.
+[2023.06.06-09.21.26:436][993]LogAudio: Display: Audio Device (ID: 58) registered with world 'Main'.
+[2023.06.06-09.21.26:440][993]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.21.26:441][993]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.21.26
+[2023.06.06-09.21.26:441][993]LogWorld: Bringing up level for play took: 0.000664
+[2023.06.06-09.21.26:441][993]LogOnline: OSS: Creating online subsystem instance for: :Context_155
+[2023.06.06-09.21.26:444][993]PIE: Server logged in
+[2023.06.06-09.21.26:444][993]PIE: Play in editor total start time 0,073 seconds.
+[2023.06.06-09.21.33:033][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.21.33:033][779]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.21.33:033][779]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.21.33:033][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.21.33:042][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.21.33:051][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.21.33:063][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.21.33:063][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.21.33:064][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.21.33:066][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.21.33:068][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.06-09.21.33:108][781]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2023.06.06-09.23.02:817][313]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.23.02:850][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.06.06-09.24.00:185][713]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.24.00:222][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.06-09.24.01:809][870]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.24.01:813][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.24.01:813][870]PIE: New page: PIE session: Main (6 cze 2023, 13:24:01)
+[2023.06.06-09.24.01:861][870]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.24.01:863][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001980s)
+[2023.06.06-09.24.01:864][870]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.24.01:864][870]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.06.06-09.24.01:864][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002952s)
+[2023.06.06-09.24.01:877][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.06-09.24.01:878][870]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.24.01:878][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.24.01:878][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.24.01:879][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.24.01:879][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.24.01:879][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.24.01:879][870]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.24.01:880][870]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.24.01:880][870]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.24.01:888][870]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.24.01:888][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.24.01:888][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.24.01:888][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.24.01:889][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.24.01:889][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.24.01:889][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.24.01:889][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.24.01:889][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.24.01:889][870]LogInit: FAudioDevice initialized.
+[2023.06.06-09.24.01:889][870]LogAudio: Display: Audio Device (ID: 59) registered with world 'Main'.
+[2023.06.06-09.24.01:894][870]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.24.01:895][870]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.24.01
+[2023.06.06-09.24.01:895][870]LogWorld: Bringing up level for play took: 0.000689
+[2023.06.06-09.24.01:895][870]LogOnline: OSS: Creating online subsystem instance for: :Context_156
+[2023.06.06-09.24.01:897][870]PIE: Server logged in
+[2023.06.06-09.24.01:898][870]PIE: Play in editor total start time 0,086 seconds.
+[2023.06.06-09.24.02:272][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.03:314][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.04:298][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.04:722][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.04:931][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.05:106][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.05:305][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.05:522][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.06:989][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.07:847][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.08:006][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.24.08:352][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.24.08:353][640]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.24.08:353][640]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.24.08:353][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.24.08:360][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.24.08:369][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.24.08:381][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.24.08:381][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.24.08:382][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.24.08:384][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.24.08:385][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.06-09.24.08:449][641]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2023.06.06-09.24.09:992][793]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.24.09:997][793]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.25.12:913][310]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.25.12:945][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.06-09.25.15:923][609]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.25.15:927][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.25.15:928][609]PIE: New page: PIE session: Main (6 cze 2023, 13:25:15)
+[2023.06.06-09.25.15:951][609]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.25.15:953][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2023.06.06-09.25.15:954][609]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.25.15:954][609]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2023.06.06-09.25.15:954][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002890s)
+[2023.06.06-09.25.15:967][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.06-09.25.15:969][609]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.25.15:969][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.25.15:969][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.25.15:969][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.25.15:969][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.25.15:969][609]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.25.15:971][609]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.25.15:971][609]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.25.15:978][609]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.25.15:978][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.25.15:978][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.25.15:978][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.25.15:979][609]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.25.15:979][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.25.15:979][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.25.15:980][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.25.15:980][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.25.15:980][609]LogInit: FAudioDevice initialized.
+[2023.06.06-09.25.15:980][609]LogAudio: Display: Audio Device (ID: 60) registered with world 'Main'.
+[2023.06.06-09.25.15:989][609]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.25.15:990][609]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.25.15
+[2023.06.06-09.25.15:990][609]LogWorld: Bringing up level for play took: 0.000676
+[2023.06.06-09.25.15:991][609]LogOnline: OSS: Creating online subsystem instance for: :Context_157
+[2023.06.06-09.25.15:993][609]PIE: Server logged in
+[2023.06.06-09.25.15:993][609]PIE: Play in editor total start time 0,067 seconds.
+[2023.06.06-09.25.16:443][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.17:760][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.18:160][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.19:502][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.19:976][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.20:143][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.20:310][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.20:435][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.20:736][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.25.20:992][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.25.20:992][203]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.25.20:992][203]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.25.20:992][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.25.20:996][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.25.21:005][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.25.21:017][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.25.21:017][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.25.21:018][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.25.21:019][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.25.21:021][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.06-09.25.21:076][204]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2023.06.06-09.25.22:989][382]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.25.23:002][382]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.28.01:925][210]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.28.01:959][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.06.06-09.28.04:097][406]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.28.04:105][406]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.28.06:018][632]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.28.06:023][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.28.06:023][632]PIE: New page: PIE session: Main (6 cze 2023, 13:28:06)
+[2023.06.06-09.28.06:061][632]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.28.06:064][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002119s)
+[2023.06.06-09.28.06:064][632]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.28.06:064][632]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2023.06.06-09.28.06:064][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002993s)
+[2023.06.06-09.28.06:081][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.06.06-09.28.06:083][632]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.28.06:083][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.28.06:083][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.28.06:083][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.28.06:083][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.28.06:083][632]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.28.06:085][632]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.28.06:085][632]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.28.06:092][632]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.28.06:092][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.28.06:092][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.28.06:092][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.28.06:093][632]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.28.06:093][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.28.06:093][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.28.06:094][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.28.06:094][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.28.06:094][632]LogInit: FAudioDevice initialized.
+[2023.06.06-09.28.06:094][632]LogAudio: Display: Audio Device (ID: 61) registered with world 'Main'.
+[2023.06.06-09.28.06:101][632]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.28.06:102][632]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.28.06
+[2023.06.06-09.28.06:102][632]LogWorld: Bringing up level for play took: 0.000673
+[2023.06.06-09.28.06:102][632]LogOnline: OSS: Creating online subsystem instance for: :Context_158
+[2023.06.06-09.28.06:104][632]PIE: Server logged in
+[2023.06.06-09.28.06:105][632]PIE: Play in editor total start time 0,084 seconds.
+[2023.06.06-09.28.06:537][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.28.07:704][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.28.08:921][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.28.09:971][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.28.10:302][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.28.10:302][129]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.28.10:302][129]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.28.10:302][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.28.10:312][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.28.10:321][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.28.10:335][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.28.10:336][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.28.10:337][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.28.10:338][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.28.10:340][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.06.06-09.28.10:400][130]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2023.06.06-09.28.57:024][545]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.28.57:059][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.06-09.29.19:581][866]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.29.19:592][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.29.19:592][866]PIE: New page: PIE session: Main (6 cze 2023, 13:29:19)
+[2023.06.06-09.29.19:592][866]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.29.19:596][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003856s)
+[2023.06.06-09.29.19:597][866]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.29.19:597][866]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.06.06-09.29.19:597][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.004728s)
+[2023.06.06-09.29.19:615][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.06.06-09.29.19:617][866]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.29.19:617][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.29.19:617][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.29.19:617][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.29.19:617][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.29.19:617][866]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.29.19:619][866]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.29.19:619][866]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.29.19:628][866]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.29.19:628][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.29.19:628][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.29.19:629][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.29.19:629][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.29.19:629][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.29.19:629][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.29.19:630][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.29.19:630][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.29.19:630][866]LogInit: FAudioDevice initialized.
+[2023.06.06-09.29.19:630][866]LogAudio: Display: Audio Device (ID: 62) registered with world 'Main'.
+[2023.06.06-09.29.19:639][866]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.29.19:640][866]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.29.19
+[2023.06.06-09.29.19:640][866]LogWorld: Bringing up level for play took: 0.000774
+[2023.06.06-09.29.19:641][866]LogOnline: OSS: Creating online subsystem instance for: :Context_159
+[2023.06.06-09.29.19:643][866]PIE: Server logged in
+[2023.06.06-09.29.19:645][866]PIE: Play in editor total start time 0,055 seconds.
+[2023.06.06-09.29.24:285][246]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.29.24:291][246]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.29.26:622][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.29.26:622][515]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.29.26:622][515]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.29.26:622][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.29.26:627][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.29.26:637][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.29.26:653][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.29.26:653][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.29.26:654][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.29.26:657][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.29.26:659][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.06.06-09.29.26:697][517]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2023.06.06-09.29.27:097][558]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.29.27:102][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.29.27:102][558]PIE: New page: PIE session: Main (6 cze 2023, 13:29:27)
+[2023.06.06-09.29.27:102][558]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.29.27:106][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003579s)
+[2023.06.06-09.29.27:107][558]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.29.27:107][558]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2023.06.06-09.29.27:107][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.004694s)
+[2023.06.06-09.29.27:125][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.06.06-09.29.27:126][558]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.29.27:126][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.29.27:126][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.29.27:126][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.29.27:126][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.29.27:126][558]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.29.27:127][558]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.29.27:127][558]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.29.27:137][558]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.29.27:137][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.29.27:137][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.29.27:137][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.29.27:137][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.29.27:137][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.29.27:137][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.29.27:138][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.29.27:138][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.29.27:138][558]LogInit: FAudioDevice initialized.
+[2023.06.06-09.29.27:138][558]LogAudio: Display: Audio Device (ID: 63) registered with world 'Main'.
+[2023.06.06-09.29.27:144][558]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.29.27:145][558]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.29.27
+[2023.06.06-09.29.27:145][558]LogWorld: Bringing up level for play took: 0.000686
+[2023.06.06-09.29.27:146][558]LogOnline: OSS: Creating online subsystem instance for: :Context_160
+[2023.06.06-09.29.27:149][558]PIE: Server logged in
+[2023.06.06-09.29.27:149][558]PIE: Play in editor total start time 0,048 seconds.
+[2023.06.06-09.29.29:352][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.29.29:353][814]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.29.29:353][814]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.29.29:353][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.29.29:362][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.29.29:374][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.29.29:388][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.29.29:388][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.29.29:390][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.29.29:394][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.06-09.29.29:416][815]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2023.06.06-09.29.30:653][958]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.29.30:659][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.29.30:659][958]PIE: New page: PIE session: Main (6 cze 2023, 13:29:30)
+[2023.06.06-09.29.30:659][958]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.29.30:661][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2023.06.06-09.29.30:663][958]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.29.30:663][958]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2023.06.06-09.29.30:663][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.004014s)
+[2023.06.06-09.29.30:678][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.06.06-09.29.30:679][958]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.29.30:679][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.29.30:679][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.29.30:679][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.29.30:679][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.29.30:679][958]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.29.30:682][958]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.29.30:682][958]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.29.30:690][958]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.29.30:690][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.29.30:690][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.29.30:690][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.29.30:691][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.29.30:691][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.29.30:691][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.29.30:691][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.29.30:691][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.29.30:691][958]LogInit: FAudioDevice initialized.
+[2023.06.06-09.29.30:691][958]LogAudio: Display: Audio Device (ID: 64) registered with world 'Main'.
+[2023.06.06-09.29.30:696][958]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.29.30:697][958]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.29.30
+[2023.06.06-09.29.30:697][958]LogWorld: Bringing up level for play took: 0.000722
+[2023.06.06-09.29.30:697][958]LogOnline: OSS: Creating online subsystem instance for: :Context_161
+[2023.06.06-09.29.30:701][958]PIE: Server logged in
+[2023.06.06-09.29.30:701][958]PIE: Play in editor total start time 0,043 seconds.
+[2023.06.06-09.29.31:039][997]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.29.32:642][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.29.32:642][185]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.29.32:642][185]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.29.32:642][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.29.32:649][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.29.32:660][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.29.32:673][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.29.32:673][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.29.32:674][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.29.32:679][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.06-09.29.32:742][186]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2023.06.06-09.30.13:176][ 43]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.30.13:220][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.06-09.30.14:834][143]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.30.14:842][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.30.14:843][143]PIE: New page: PIE session: Main (6 cze 2023, 13:30:14)
+[2023.06.06-09.30.14:843][143]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.30.14:850][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006479s)
+[2023.06.06-09.30.14:850][143]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.30.14:850][143]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2023.06.06-09.30.14:850][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.007456s)
+[2023.06.06-09.30.14:871][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.06.06-09.30.14:873][143]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.30.14:873][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.30.14:873][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.30.14:873][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.30.14:873][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.30.14:873][143]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.30.14:875][143]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.30.14:875][143]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.30.14:883][143]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.30.14:884][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.30.14:884][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.30.14:884][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.30.14:885][143]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.30.14:885][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.30.14:885][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.30.14:885][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.30.14:885][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.30.14:885][143]LogInit: FAudioDevice initialized.
+[2023.06.06-09.30.14:885][143]LogAudio: Display: Audio Device (ID: 65) registered with world 'Main'.
+[2023.06.06-09.30.14:896][143]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.30.14:897][143]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.30.14
+[2023.06.06-09.30.14:897][143]LogWorld: Bringing up level for play took: 0.000727
+[2023.06.06-09.30.14:897][143]LogOnline: OSS: Creating online subsystem instance for: :Context_162
+[2023.06.06-09.30.14:899][143]PIE: Server logged in
+[2023.06.06-09.30.14:900][143]PIE: Play in editor total start time 0,059 seconds.
+[2023.06.06-09.30.15:928][245]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.30.15:934][245]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.30.17:022][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.30.17:022][361]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.30.17:023][361]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.30.17:024][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.30.17:033][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.30.17:044][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.30.17:059][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.30.17:059][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.30.17:061][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.30.17:063][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.30.17:065][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.06-09.30.17:099][363]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2023.06.06-09.30.18:078][472]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.30.18:086][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.30.18:086][472]PIE: New page: PIE session: Main (6 cze 2023, 13:30:18)
+[2023.06.06-09.30.18:086][472]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.30.18:089][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002327s)
+[2023.06.06-09.30.18:090][472]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.30.18:091][472]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2023.06.06-09.30.18:091][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.004633s)
+[2023.06.06-09.30.18:109][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.06.06-09.30.18:110][472]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.30.18:110][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.30.18:110][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.30.18:111][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.30.18:111][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.30.18:111][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.30.18:111][472]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.30.18:112][472]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.30.18:112][472]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.30.18:121][472]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.30.18:121][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.30.18:121][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.30.18:121][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.30.18:122][472]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.30.18:122][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.30.18:122][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.30.18:123][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.30.18:123][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.30.18:123][472]LogInit: FAudioDevice initialized.
+[2023.06.06-09.30.18:123][472]LogAudio: Display: Audio Device (ID: 66) registered with world 'Main'.
+[2023.06.06-09.30.18:128][472]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.30.18:128][472]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.30.18
+[2023.06.06-09.30.18:129][472]LogWorld: Bringing up level for play took: 0.000687
+[2023.06.06-09.30.18:129][472]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2023.06.06-09.30.18:131][472]PIE: Server logged in
+[2023.06.06-09.30.18:131][472]PIE: Play in editor total start time 0,046 seconds.
+[2023.06.06-09.30.18:329][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Weapon Fire sound". Blueprint:  Soldier Function:  Stop Firing Weapon Graph:  stop firing Weapon Node:  Stop
+[2023.06.06-09.30.20:002][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.30.20:002][691]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.30.20:002][691]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.30.20:003][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.30.20:009][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.30.20:020][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.30.20:034][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.30.20:034][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.30.20:036][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.30.20:040][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.06-09.30.20:101][692]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2023.06.06-09.30.22:105][852]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.30.22:113][852]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.30.46:918][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.06-09.30.46:919][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.016
+[2023.06.06-09.30.46:919][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/W_PlayerHud] ([2] browsable assets)...
+[2023.06.06-09.30.46:919][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHud]
+[2023.06.06-09.30.46:926][ 19]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/W_PlayerHud_Auto5684ED41D4298F3EF188C5D8A5866802E.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/UI/W_PlayerHud_Auto5.uasset'
+[2023.06.06-09.30.46:926][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.06-09.30.46:939][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.06-09.30.46:950][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.06-09.30.46:950][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.06-09.30.46:975][ 19]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto5983419C14845EF8894CB20A550D03385.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto5.uasset'
+[2023.06.06-09.30.46:976][ 19]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/Animation_Mariene] ([4] browsable assets)...
+[2023.06.06-09.30.46:987][ 19]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.30.46:999][ 19]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.30.46:999][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/Animation_Mariene]
+[2023.06.06-09.30.47:012][ 19]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Animation_Mariene_Auto57BA30D0A45D8B4B29544ADBF9C36E5C6.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/Animation_Mariene_Auto5.uasset'
+[2023.06.06-09.30.47:012][ 19]LogFileHelpers: Auto-saving content packages took 0.093
+[2023.06.06-09.32.18:467][797]BlueprintLog: New page: Compile Soldier
+[2023.06.06-09.32.18:503][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.06.06-09.32.19:903][932]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.32.19:909][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.32.19:909][932]PIE: New page: PIE session: Main (6 cze 2023, 13:32:19)
+[2023.06.06-09.32.19:931][932]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.32.19:933][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002024s)
+[2023.06.06-09.32.19:933][932]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.32.19:934][932]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2023.06.06-09.32.19:934][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002751s)
+[2023.06.06-09.32.19:946][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.06-09.32.19:947][932]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.32.19:947][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.32.19:947][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.32.19:947][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.32.19:947][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.32.19:947][932]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.32.19:948][932]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.32.19:948][932]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.32.19:956][932]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.32.19:956][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.32.19:956][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.32.19:956][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.32.19:957][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.32.19:957][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.32.19:957][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.32.19:958][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.32.19:958][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.32.19:958][932]LogInit: FAudioDevice initialized.
+[2023.06.06-09.32.19:958][932]LogAudio: Display: Audio Device (ID: 67) registered with world 'Main'.
+[2023.06.06-09.32.19:965][932]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.32.19:966][932]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.32.19
+[2023.06.06-09.32.19:966][932]LogWorld: Bringing up level for play took: 0.000699
+[2023.06.06-09.32.19:967][932]LogOnline: OSS: Creating online subsystem instance for: :Context_164
+[2023.06.06-09.32.19:969][932]PIE: Server logged in
+[2023.06.06-09.32.19:969][932]PIE: Play in editor total start time 0,062 seconds.
+[2023.06.06-09.32.22:622][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.32.22:622][245]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.32.22:622][245]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.32.22:622][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.32.22:631][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.32.22:641][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.32.22:654][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.32.22:654][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.32.22:655][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.32.22:656][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.32.22:658][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.06.06-09.32.22:706][247]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2023.06.06-09.32.25:622][588]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.32.25:626][588]LogSlate: Window 'Message Log' being destroyed
+[2023.06.06-09.32.26:206][657]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.32.26:211][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.32.26:211][657]PIE: New page: PIE session: Main (6 cze 2023, 13:32:26)
+[2023.06.06-09.32.26:241][657]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.32.26:242][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001952s)
+[2023.06.06-09.32.26:243][657]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.32.26:243][657]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2023.06.06-09.32.26:243][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002769s)
+[2023.06.06-09.32.26:255][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.06-09.32.26:257][657]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.32.26:257][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.32.26:257][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.32.26:257][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.32.26:257][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.32.26:257][657]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.32.26:259][657]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.32.26:259][657]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.32.26:266][657]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.32.26:266][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.32.26:266][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.32.26:266][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.32.26:267][657]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.32.26:267][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.32.26:267][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.32.26:267][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.32.26:267][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.32.26:267][657]LogInit: FAudioDevice initialized.
+[2023.06.06-09.32.26:267][657]LogAudio: Display: Audio Device (ID: 68) registered with world 'Main'.
+[2023.06.06-09.32.26:273][657]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.32.26:274][657]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.32.26
+[2023.06.06-09.32.26:274][657]LogWorld: Bringing up level for play took: 0.000674
+[2023.06.06-09.32.26:274][657]LogOnline: OSS: Creating online subsystem instance for: :Context_165
+[2023.06.06-09.32.26:276][657]PIE: Server logged in
+[2023.06.06-09.32.26:277][657]PIE: Play in editor total start time 0,067 seconds.
+[2023.06.06-09.32.30:791][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.32.30:791][195]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.32.30:791][195]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.32.30:792][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.32.30:798][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.32.30:807][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.32.30:819][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.32.30:819][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.32.30:820][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.32.30:823][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.06.06-09.32.30:873][198]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2023.06.06-09.34.28:748][112]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.34.28:799][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.34.28:963][117]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.34.29:011][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.34.29:311][128]LogEditorTransaction: Undo Rename Function
+[2023.06.06-09.34.29:360][128]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.34.29:712][147]LogEditorTransaction: Undo Add New Function
+[2023.06.06-09.34.29:763][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.38.17:882][354]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.38.17:913][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.06.06-09.41.25:275][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.06-09.41.25:277][654]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.019
+[2023.06.06-09.41.25:277][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/W_PlayerHud] ([2] browsable assets)...
+[2023.06.06-09.41.25:277][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHud]
+[2023.06.06-09.41.25:284][654]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/W_PlayerHud_Auto6EDAEC7924408D4E561D3DB8CA377F220.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/UI/W_PlayerHud_Auto6.uasset'
+[2023.06.06-09.41.25:284][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/Soldier] ([4] browsable assets)...
+[2023.06.06-09.41.25:297][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.06-09.41.25:308][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/Soldier.Soldier]
+[2023.06.06-09.41.25:308][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/Soldier]
+[2023.06.06-09.41.25:334][654]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Soldier_Auto65AFE8F4348AC2D191ED870881AEF5A85.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/Soldier_Auto6.uasset'
+[2023.06.06-09.41.25:335][654]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/Animation_Mariene] ([4] browsable assets)...
+[2023.06.06-09.41.25:347][654]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.41.25:358][654]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.41.25:358][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/Animation_Mariene]
+[2023.06.06-09.41.25:371][654]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Animation_Mariene_Auto6196BE6D54F42D8EBF2876286E426DF9A.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/Animation_Mariene_Auto6.uasset'
+[2023.06.06-09.41.25:371][654]LogFileHelpers: Auto-saving content packages took 0.093
+[2023.06.06-09.42.08:491][203]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.08:537][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.08:666][208]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.08:709][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.08:814][211]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.08:851][211]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.08:972][215]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.09:009][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.09:130][222]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.09:171][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.09:276][229]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.09:318][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.09:432][236]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.09:474][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.09:602][244]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.09:644][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.09:762][252]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.09:803][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.09:950][262]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.09:991][262]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.10:103][269]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.10:145][269]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.10:275][278]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.10:316][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.10:450][287]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.10:490][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.10:621][296]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.10:663][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.10:781][304]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.10:822][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.10:948][312]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.10:990][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.11:115][320]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.11:155][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.11:315][332]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.11:356][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.11:468][339]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.42.11:510][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.11:652][349]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.11:693][349]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.11:799][356]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.11:841][356]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.11:993][367]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.12:034][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.12:150][375]LogEditorTransaction: Undo Break Pin Link
+[2023.06.06-09.42.12:190][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.13:399][478]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.13:443][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.13:553][485]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.13:594][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.13:712][493]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.13:754][493]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.13:861][500]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.13:902][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.14:347][538]LogEditorTransaction: Undo Promote To Variable
+[2023.06.06-09.42.14:389][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.14:476][543]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.14:518][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.14:616][549]LogEditorTransaction: Undo Create Pin Link
+[2023.06.06-09.42.14:657][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.14:756][555]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.14:797][555]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.14:885][560]LogEditorTransaction: Undo Add Node
+[2023.06.06-09.42.14:927][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:021][566]LogEditorTransaction: Undo Move Node
+[2023.06.06-09.42.15:061][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:154][572]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.15:196][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:311][580]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.15:353][580]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:451][586]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.15:492][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:584][592]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.15:625][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:731][599]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.15:774][599]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.15:869][605]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.15:911][605]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.16:019][612]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.16:061][612]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.42.16:159][618]LogEditorTransaction: Undo Delete current selection
+[2023.06.06-09.42.16:201][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.45.00:534][486]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.45.00:550][486]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animation_Mariene_C_6
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:550][486]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:569][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.06-09.45.00:576][486]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:592][487]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:605][488]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:618][489]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:631][490]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:648][491]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:658][492]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:670][493]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:683][494]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:698][495]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:711][496]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:724][497]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:736][498]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:749][499]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.45.00:762][500]LogScript: Warning: Accessed None trying to read property As Soldier
+	Animation_Mariene_C /Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Animation_Mariene_C_5
+	Function /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene_C:ExecuteUbergraph_Animation_Mariene:00AE
+[2023.06.06-09.46.14:271][521]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.46.14:300][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.06-09.46.17:732][811]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.46.17:736][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.46.17:736][811]PIE: New page: PIE session: Main (6 cze 2023, 13:46:17)
+[2023.06.06-09.46.17:769][811]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.46.17:771][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002173s)
+[2023.06.06-09.46.17:772][811]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.46.17:772][811]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2023.06.06-09.46.17:772][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003266s)
+[2023.06.06-09.46.17:785][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.06-09.46.17:787][811]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.46.17:787][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.46.17:787][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.46.17:787][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.46.17:787][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.46.17:787][811]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.46.17:789][811]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.46.17:789][811]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.46.17:796][811]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.46.17:797][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.46.17:797][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.46.17:797][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.46.17:797][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.46.17:797][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.46.17:797][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.46.17:798][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.46.17:798][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.46.17:798][811]LogInit: FAudioDevice initialized.
+[2023.06.06-09.46.17:798][811]LogAudio: Display: Audio Device (ID: 69) registered with world 'Main'.
+[2023.06.06-09.46.17:802][811]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.46.17:803][811]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.46.17
+[2023.06.06-09.46.17:804][811]LogWorld: Bringing up level for play took: 0.000726
+[2023.06.06-09.46.17:804][811]LogOnline: OSS: Creating online subsystem instance for: :Context_166
+[2023.06.06-09.46.17:806][811]PIE: Server logged in
+[2023.06.06-09.46.17:806][811]PIE: Play in editor total start time 0,071 seconds.
+[2023.06.06-09.46.21:190][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.46.21:190][210]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.46.21:190][210]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.46.21:190][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.46.21:195][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.46.21:204][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.46.21:217][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.46.21:217][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.46.21:218][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.46.21:220][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.46.21:221][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.06-09.46.21:242][211]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2023.06.06-09.49.45:781][359]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.49.45:809][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.06.06-09.51.34:154][927]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.51.34:186][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.06-09.51.56:610][811]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.51.56:638][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.06-09.52.24:069][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.06.06-09.52.24:072][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.016
+[2023.06.06-09.52.24:072][339]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/Animation_Mariene] ([4] browsable assets)...
+[2023.06.06-09.52.24:077][339]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.52.24:081][339]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/Animation_Mariene.Animation_Mariene]
+[2023.06.06-09.52.24:081][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/Animation_Mariene]
+[2023.06.06-09.52.24:096][339]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Animation_Mariene_Auto75B9AEA3142BE5EA475F883943091F7EC.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/Animation_Mariene_Auto7.uasset'
+[2023.06.06-09.52.24:096][339]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.06.06-09.55.38:934][ 83]LogEditorTransaction: Undo Rename Node
+[2023.06.06-09.55.38:981][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.55.39:344][ 97]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.06.06-09.55.39:384][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.06-09.55.59:422][594]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.55.59:453][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.06-09.57.51:588][990]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.57.51:619][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.06.06-09.57.57:538][535]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.57.57:543][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.57.57:543][535]PIE: New page: PIE session: Main (6 cze 2023, 13:57:57)
+[2023.06.06-09.57.57:567][535]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.57.57:569][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002008s)
+[2023.06.06-09.57.57:570][535]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.57.57:570][535]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2023.06.06-09.57.57:570][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002882s)
+[2023.06.06-09.57.57:583][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.06.06-09.57.57:586][535]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.57.57:586][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.57.57:586][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.57.57:586][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.57.57:586][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.57.57:586][535]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.57.57:588][535]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.57.57:588][535]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.57.57:595][535]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.57.57:595][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.57.57:595][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.57.57:595][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.57.57:596][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.57.57:596][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.57.57:596][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.57.57:597][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.57.57:597][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.57.57:597][535]LogInit: FAudioDevice initialized.
+[2023.06.06-09.57.57:597][535]LogAudio: Display: Audio Device (ID: 70) registered with world 'Main'.
+[2023.06.06-09.57.57:603][535]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.57.57:604][535]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.57.57
+[2023.06.06-09.57.57:604][535]LogWorld: Bringing up level for play took: 0.000719
+[2023.06.06-09.57.57:604][535]LogOnline: OSS: Creating online subsystem instance for: :Context_167
+[2023.06.06-09.57.57:607][535]PIE: Server logged in
+[2023.06.06-09.57.57:607][535]PIE: Play in editor total start time 0,065 seconds.
+[2023.06.06-09.57.59:979][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.57.59:979][813]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.57.59:979][813]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.57.59:980][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.57.59:986][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.57.59:995][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.58.00:007][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.58.00:007][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.58.00:008][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.58.00:010][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.58.00:012][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.06.06-09.58.00:060][815]LogPlayLevel: Display: Destroying online subsystem :Context_167
+[2023.06.06-09.59.12:757][ 51]BlueprintLog: New page: Compile Animation_Mariene
+[2023.06.06-09.59.12:784][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.06-09.59.20:853][695]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.06-09.59.20:857][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.06-09.59.20:857][695]PIE: New page: PIE session: Main (6 cze 2023, 13:59:20)
+[2023.06.06-09.59.20:897][695]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.59.20:900][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002151s)
+[2023.06.06-09.59.20:900][695]LogAIModule: Creating AISystem for world Main
+[2023.06.06-09.59.20:900][695]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2023.06.06-09.59.20:900][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003014s)
+[2023.06.06-09.59.20:914][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.06.06-09.59.20:916][695]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.06-09.59.20:916][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.06-09.59.20:916][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.06-09.59.20:917][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.06-09.59.20:917][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.06-09.59.20:917][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.06-09.59.20:917][695]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.06-09.59.20:918][695]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.06-09.59.20:918][695]LogAudioMixer: Display: 1: FrontRight
+[2023.06.06-09.59.20:926][695]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.06-09.59.20:926][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.06-09.59.20:926][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.06-09.59.20:926][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.06-09.59.20:926][695]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.06-09.59.20:926][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.06-09.59.20:926][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.06-09.59.20:927][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.06-09.59.20:927][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.06-09.59.20:927][695]LogInit: FAudioDevice initialized.
+[2023.06.06-09.59.20:927][695]LogAudio: Display: Audio Device (ID: 71) registered with world 'Main'.
+[2023.06.06-09.59.20:934][695]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.06.06-09.59.20:934][695]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.06.06-11.59.20
+[2023.06.06-09.59.20:935][695]LogWorld: Bringing up level for play took: 0.000733
+[2023.06.06-09.59.20:935][695]LogOnline: OSS: Creating online subsystem instance for: :Context_168
+[2023.06.06-09.59.20:937][695]PIE: Server logged in
+[2023.06.06-09.59.20:937][695]PIE: Play in editor total start time 0,081 seconds.
+[2023.06.06-09.59.22:059][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.59.22:059][823]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.06.06-09.59.22:059][823]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.06-09.59.22:059][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.59.22:066][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.06-09.59.22:075][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.06-09.59.22:087][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.06-09.59.22:087][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.59.22:088][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.06-09.59.22:090][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.06-09.59.22:092][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.06-09.59.22:131][825]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2023.06.06-09.59.35:945][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Main" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.06-09.59.35:956][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.06-09.59.35:966][481]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main16C2BF834C3D47F83B6574B6AADA2169.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
+[2023.06.06-09.59.35:978][481]AssetCheck: New page: Asset Save: Main
+[2023.06.06-09.59.35:978][481]LogContentValidation: Display: Validating World /Game/Main/Main.Main
