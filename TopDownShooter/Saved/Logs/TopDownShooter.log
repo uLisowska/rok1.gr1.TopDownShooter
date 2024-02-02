@@ -2276,3 +2276,539 @@ Script call stack:
 [2024.02.02-15.28.53:491][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PlayerHud]
 [2024.02.02-15.28.53:499][600]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/W_PlayerHud_Auto7F18B00C0444F78278E8A469A5904F5C4.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/UI/W_PlayerHud_Auto7.uasset'
 [2024.02.02-15.28.53:500][600]LogFileHelpers: Auto-saving content packages took 0.186
+[2024.02.02-17.06.15:218][383]LogRenderer: Reallocating scene render targets to support 1532x884 Format 10 NumSamples 1 (Frame:341930).
+[2024.02.02-17.06.15:274][385]LogRenderer: Reallocating scene render targets to support 1540x884 Format 10 NumSamples 1 (Frame:341934).
+[2024.02.02-17.06.15:314][386]LogRenderer: Reallocating scene render targets to support 1548x884 Format 10 NumSamples 1 (Frame:341936).
+[2024.02.02-17.06.15:348][387]LogRenderer: Reallocating scene render targets to support 1552x884 Format 10 NumSamples 1 (Frame:341938).
+[2024.02.02-17.06.15:429][394]LogRenderer: Reallocating scene render targets to support 1556x884 Format 10 NumSamples 1 (Frame:341942).
+[2024.02.02-17.06.15:491][397]LogRenderer: Reallocating scene render targets to support 1560x884 Format 10 NumSamples 1 (Frame:341946).
+[2024.02.02-17.06.15:524][398]LogRenderer: Reallocating scene render targets to support 1564x884 Format 10 NumSamples 1 (Frame:341948).
+[2024.02.02-17.06.15:583][400]LogRenderer: Reallocating scene render targets to support 1568x884 Format 10 NumSamples 1 (Frame:341952).
+[2024.02.02-17.06.15:756][418]LogRenderer: Reallocating scene render targets to support 1572x884 Format 10 NumSamples 1 (Frame:341956).
+[2024.02.02-17.06.15:814][420]LogRenderer: Reallocating scene render targets to support 1576x884 Format 10 NumSamples 1 (Frame:341960).
+[2024.02.02-17.08.17:694][634]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2024.02.02-17.08.48:265][755]LogEditorViewport: Clicking on Actor (LMB): BP_Spider_C (BP_Spider)
+[2024.02.02-17.08.49:570][908]Cmd: DELETE
+[2024.02.02-17.08.49:570][908]Cmd: ACTOR DELETE
+[2024.02.02-17.08.49:578][908]LogEditorActor: Deleted Actor: BP_Spider_C
+[2024.02.02-17.08.49:590][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.02-17.08.49:607][908]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.02.02-17.09.15:076][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.02-17.09.15:090][269]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main_Auto83D4296324A4661729B13FFA12235E21E.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Main/Main_Auto8.umap'
+[2024.02.02-17.09.15:092][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.028
+[2024.02.02-17.09.15:092][269]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.02.02-17.09.15:092][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_Spider] ([4] browsable assets)...
+[2024.02.02-17.09.15:098][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider]
+[2024.02.02-17.09.15:103][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider]
+[2024.02.02-17.09.15:103][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_Spider]
+[2024.02.02-17.09.15:124][269]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/BP_Spider_Auto8BD9C50E2429B1CCE21C1A2AB206F9687.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/AI/BP_Spider_Auto8.uasset'
+[2024.02.02-17.09.15:125][269]LogFileHelpers: Auto-saving content packages took 0.033
+[2024.02.02-17.09.34:090][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.02-17.09.42:953][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 54C49F6AB8986CAE3FDE93F5CDCA679F15645CEF), compiling. 
+[2024.02.02-17.09.42:966][140]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.42:969][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 397DA19F1C61E7A44C80DDDD630A4BF63D1C236F), compiling. 
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 16
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 15
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 14
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 13
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 12
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 11
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 10
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 9
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 8
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 7
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 6
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 5
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 4
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 3
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 2
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.42:983][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.42:986][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7EDD25116D33F2F475FBC7885D056C639F1B6DD7), compiling. 
+[2024.02.02-17.09.42:997][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:000][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 11D19227065D1DA1DD89BECDADF41F209ED22EC3), compiling. 
+[2024.02.02-17.09.43:010][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:013][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D5E76CB9A5FE108D53AD50103CEB1B6AA10A59E9), compiling. 
+[2024.02.02-17.09.43:024][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:027][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 7799CE7CE7512E3B375C877731B2093B60E98D5A), compiling. 
+[2024.02.02-17.09.43:036][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:042][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 364EBDC5F4EB70670AE9B724A432B68386B99F4E), compiling. 
+[2024.02.02-17.09.43:049][140]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:061][140]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 156
+[2024.02.02-17.09.43:061][140]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 148
+[2024.02.02-17.09.43:061][140]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 140
+[2024.02.02-17.09.43:061][140]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 132
+[2024.02.02-17.09.43:061][140]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:061][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: ABB8DE0F94200D2EF3D9926928A42DFE65A148A1), compiling. 
+[2024.02.02-17.09.43:070][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:073][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 127A0B1A4E733BBCC50D32C390F8BA240A5246C0), compiling. 
+[2024.02.02-17.09.43:082][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:085][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 4015C321CB7CD77CD61FDA871D6BCD17135E2951), compiling. 
+[2024.02.02-17.09.43:094][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:097][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D32BAF37B0C3F124D6BD98AAE7A4BBE37A4F9AD), compiling. 
+[2024.02.02-17.09.43:105][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:110][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 9233789D418573C9FE0842D26FF83A458ABBFD56), compiling. 
+[2024.02.02-17.09.43:119][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:122][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 852C9CA525EEF115A2221B2D737444F63D8131DC), compiling. 
+[2024.02.02-17.09.43:133][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:137][140]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_14 in PCD3D_SM5, Default, SM5 (DDC key hash: AA3D483B2B2FD789CE026E73BABD0C50EA06AEF5), compiling. 
+[2024.02.02-17.09.43:147][140]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:154][140]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2024.02.02-17.09.43:531][154]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 320
+[2024.02.02-17.09.43:531][154]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:534][154]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.02-17.09.43:534][154]LogShaderCompilers: Display: Total job queries 670, among them cache hits 1 (0.15%)
+[2024.02.02-17.09.43:534][154]LogShaderCompilers: Display: Tracking 302 distinct input hashes that result in 106 distinct outputs (35.10%)
+[2024.02.02-17.09.43:534][154]LogShaderCompilers: Display: RAM used: 0.54 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2024.02.02-17.09.43:534][154]LogShaderCompilers: Display: ================================================
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 310
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 300
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 290
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 280
+[2024.02.02-17.09.43:560][156]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:579][157]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 270
+[2024.02.02-17.09.43:579][157]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 260
+[2024.02.02-17.09.43:579][157]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:579][157]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 250
+[2024.02.02-17.09.43:579][157]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:598][158]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 240
+[2024.02.02-17.09.43:598][158]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:692][165]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 230
+[2024.02.02-17.09.43:692][165]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:714][166]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 220
+[2024.02.02-17.09.43:714][166]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:766][169]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 210
+[2024.02.02-17.09.43:766][169]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:781][170]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 200
+[2024.02.02-17.09.43:781][170]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:895][178]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 190
+[2024.02.02-17.09.43:895][178]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.43:947][182]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 180
+[2024.02.02-17.09.43:947][182]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.44:042][190]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 170
+[2024.02.02-17.09.44:042][190]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.46:817][368]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 161
+[2024.02.02-17.09.46:817][368]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.47:237][407]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 152
+[2024.02.02-17.09.47:237][407]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.47:690][444]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2024.02.02-17.09.47:866][458]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 144
+[2024.02.02-17.09.47:866][458]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.48:077][476]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 136
+[2024.02.02-17.09.48:077][476]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.48:448][506]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 129
+[2024.02.02-17.09.48:448][506]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.48:890][541]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 122
+[2024.02.02-17.09.48:890][541]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.48:890][541]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 115
+[2024.02.02-17.09.48:890][541]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:103][563]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 109
+[2024.02.02-17.09.49:103][563]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:229][573]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2024.02.02-17.09.49:368][580]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 103
+[2024.02.02-17.09.49:368][580]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:392][581]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 97
+[2024.02.02-17.09.49:392][581]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:598][600]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 92
+[2024.02.02-17.09.49:598][600]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:616][601]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 87
+[2024.02.02-17.09.49:616][601]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:632][602]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 82
+[2024.02.02-17.09.49:632][602]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:806][613]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 77
+[2024.02.02-17.09.49:806][613]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.49:898][618]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 73
+[2024.02.02-17.09.49:898][618]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.50:038][627]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 69
+[2024.02.02-17.09.50:038][627]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.50:064][628]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 65
+[2024.02.02-17.09.50:064][628]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.50:112][631]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 61
+[2024.02.02-17.09.50:112][631]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.50:409][651]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 57
+[2024.02.02-17.09.50:409][651]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.50:611][664]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 54
+[2024.02.02-17.09.50:611][664]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.51:367][728]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 51
+[2024.02.02-17.09.51:367][728]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.51:722][757]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 48
+[2024.02.02-17.09.51:722][757]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.51:987][779]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 45
+[2024.02.02-17.09.51:987][779]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:059][784]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 42
+[2024.02.02-17.09.52:059][784]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:064][784]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 39
+[2024.02.02-17.09.52:064][784]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:188][795]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 37
+[2024.02.02-17.09.52:188][795]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:263][799]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 35
+[2024.02.02-17.09.52:264][799]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:319][802]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 33
+[2024.02.02-17.09.52:319][802]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 31
+[2024.02.02-17.09.52:319][802]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:334][803]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 29
+[2024.02.02-17.09.52:334][803]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:574][820]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 27
+[2024.02.02-17.09.52:574][820]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:597][821]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 25
+[2024.02.02-17.09.52:598][821]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:728][830]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 23
+[2024.02.02-17.09.52:728][830]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:796][834]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 21
+[2024.02.02-17.09.52:796][834]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:822][836]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 19
+[2024.02.02-17.09.52:822][836]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:842][837]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 18
+[2024.02.02-17.09.52:842][837]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.52:977][849]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 17
+[2024.02.02-17.09.52:977][849]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:073][858]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 16
+[2024.02.02-17.09.53:073][858]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:087][859]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 15
+[2024.02.02-17.09.53:087][859]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:131][863]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 14
+[2024.02.02-17.09.53:131][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:131][863]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 13
+[2024.02.02-17.09.53:131][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:161][865]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 12
+[2024.02.02-17.09.53:161][865]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:296][876]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 11
+[2024.02.02-17.09.53:296][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:296][876]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 10
+[2024.02.02-17.09.53:296][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:296][876]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 9
+[2024.02.02-17.09.53:296][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:332][878]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 8
+[2024.02.02-17.09.53:332][878]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:362][880]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 7
+[2024.02.02-17.09.53:362][880]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:494][889]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 6
+[2024.02.02-17.09.53:494][889]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:494][889]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 5
+[2024.02.02-17.09.53:495][889]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:538][891]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 4
+[2024.02.02-17.09.53:538][891]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:594][893]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 3
+[2024.02.02-17.09.53:594][893]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:629][895]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2024.02.02-17.09.53:629][895]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.53:647][896]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2024.02.02-17.09.53:647][896]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.09.58:283][420]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.02.02-17.10.11:052][932]MapCheck: New page: Map Check
+[2024.02.02-17.10.11:073][932]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.02-17.10.11:074][932]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.02-17.10.11:075][932]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2024.02.02-17.10.11:082][932]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.02-17.10.11:082][932]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.02.02-17.10.11:082][932]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.02.02-17.10.11:082][932]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.02.02-17.10.11:085][932]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2024.02.02-17.10.11:099][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.02.02-17.10.11:123][932]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2024.02.02-17.10.11:125][932]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2024.02.02-17.10.11:135][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.02-17.10.11:139][932]LightingResults: New page: Lighting Build - 2 lut 2024, 19:10:11
+[2024.02.02-17.10.11:170][932]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.02-17.10.11:219][932]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.02-17.10.11:228][932]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.02-17.10.11:747][932]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.02-17.10.11:747][932]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17956
+[2024.02.02-17.10.22:973][932]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.02-17.10.22:973][932]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.02-17.10.22:973][932]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.02-17.10.22:973][932]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.02-17.10.22:973][932]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.02-17.10.22:973][932]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.02-17.10.23:064][932]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.02-17.10.23:064][932]MapCheck: New page: Main - 2 lut 2024, 19:10:23
+[2024.02.02-17.10.23:065][932]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2024.02.02-17.10.23:065][932]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,344ms to complete.
+[2024.02.02-17.10.23:066][932]LogEditorBuildUtils: Build time 0:12
+[2024.02.02-17.10.23:422][932]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E196F04F6F9970EA62120D75BF8070669BA10977), compiling. 
+[2024.02.02-17.10.23:424][932]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2024.02.02-17.10.23:424][932]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED95D2B258450F45B96DD24FF92CD0213EF3DA23), compiling. 
+[2024.02.02-17.10.23:426][932]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2024.02.02-17.10.24:079][932]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 4
+[2024.02.02-17.10.24:080][932]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 3
+[2024.02.02-17.10.24:080][932]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2024.02.02-17.10.24:080][932]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2024.02.02-17.10.24:080][932]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.02.02-17.10.24:573][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.02-17.10.26:702][940]Job is a success!
+[2024.02.02-17.10.27:106][941]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2024.02.02-17.10.27:106][941]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.02-17.10.27:106][941]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2024.02.02-17.10.27:106][941]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.02-17.10.27:107][941]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2024.02.02-17.10.27:107][941]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2024.02.02-17.10.27:107][941]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2024.02.02-17.10.27:107][941]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.02-17.10.27:107][941]LogVolumetricLightmapImport:          Main 			 14 bricks 	 100.0% (Persistent Level)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 128X64)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 128X128)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 128X128)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2024.02.02-17.10.27:131][941]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2024.02.02-17.10.27:131][941]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2024.02.02-17.10.27:166][941]Lightmass on DESKTOP-SCCC6JS: 1.24 sec total, 118 ms importing, 22 ms setup, 53 ms photons, 907 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 20.8 sec total, 53 ms processing.
+[2024.02.02-17.10.27:166][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.02-17.10.27:198][941]LogStaticLightingSystem: Illumination: 15.7 sec (8 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2024.02.02-17.10.27:198][941]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2024.02.02-17.10.27:198][941]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.02.02-17.10.27:947][941]DumpUnbuiltLightIteractions
+[2024.02.02-17.10.27:947][941]Lights with unbuilt interactions: 0
+[2024.02.02-17.10.27:947][941]
+[2024.02.02-17.10.27:947][941]Primitives with unbuilt interactions: 0
+[2024.02.02-17.10.28:034][941]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2024.02.02-17.10.28:042][941]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2024.02.02-17.10.28:098][942]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.02-17.10.28:098][942]MapCheck: New page: Main - 2 lut 2024, 19:10:28
+[2024.02.02-17.10.28:099][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,423ms to complete.
+[2024.02.02-17.10.30:201][958]LogSlate: Window 'Message Log' being destroyed
+[2024.02.02-17.10.30:220][958]LogSlate: Window 'Message Log' being destroyed
+[2024.02.02-17.11.10:711][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.02.02-17.11.13:874][512]Cmd: TRANSACTION UNDO
+[2024.02.02-17.11.13:874][512]LogEditorTransaction: Undo Move Actors
+[2024.02.02-17.11.15:406][664]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2024.02.02-17.11.16:820][832]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.02-17.11.17:248][883]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.02-17.11.21:959][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.02.02-17.11.23:568][638]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2024.02.02-17.12.02:091][148]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint5)
+[2024.02.02-17.12.03:640][332]Cmd: DELETE
+[2024.02.02-17.12.03:640][332]Cmd: ACTOR DELETE
+[2024.02.02-17.12.03:642][332]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.03:652][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.02-17.12.03:663][332]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.02.02-17.12.04:097][384]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint8)
+[2024.02.02-17.12.04:389][417]Cmd: DELETE
+[2024.02.02-17.12.04:389][417]Cmd: ACTOR DELETE
+[2024.02.02-17.12.04:390][417]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.04:399][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.02-17.12.04:399][417]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.02.02-17.12.05:117][503]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint3)
+[2024.02.02-17.12.05:351][529]Cmd: DELETE
+[2024.02.02-17.12.05:351][529]Cmd: ACTOR DELETE
+[2024.02.02-17.12.05:352][529]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.05:362][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.02-17.12.05:363][529]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.02-17.12.05:873][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.02.02-17.12.06:040][608]Cmd: DELETE
+[2024.02.02-17.12.06:041][608]Cmd: ACTOR DELETE
+[2024.02.02-17.12.06:041][608]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.02-17.12.06:051][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.02-17.12.06:051][608]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.02-17.12.07:528][785]Cmd: TRANSACTION UNDO
+[2024.02.02-17.12.07:528][785]LogEditorTransaction: Undo Delete Actors
+[2024.02.02-17.12.07:651][793]Cmd: TRANSACTION UNDO
+[2024.02.02-17.12.07:651][793]LogEditorTransaction: Undo Clicking on Actors
+[2024.02.02-17.12.09:642][  4]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint6)
+[2024.02.02-17.12.09:909][ 34]Cmd: DELETE
+[2024.02.02-17.12.09:909][ 34]Cmd: ACTOR DELETE
+[2024.02.02-17.12.09:910][ 34]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.09:919][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.02-17.12.09:920][ 34]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.02-17.12.10:423][ 94]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint4)
+[2024.02.02-17.12.10:572][110]Cmd: DELETE
+[2024.02.02-17.12.10:572][110]Cmd: ACTOR DELETE
+[2024.02.02-17.12.10:573][110]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.10:582][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.02-17.12.10:583][110]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.02-17.12.11:252][190]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint7)
+[2024.02.02-17.12.11:734][246]Cmd: DELETE
+[2024.02.02-17.12.11:734][246]Cmd: ACTOR DELETE
+[2024.02.02-17.12.11:735][246]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.11:744][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.02-17.12.11:745][246]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.02-17.12.12:622][351]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint2)
+[2024.02.02-17.12.12:796][370]Cmd: DELETE
+[2024.02.02-17.12.12:796][370]Cmd: ACTOR DELETE
+[2024.02.02-17.12.12:797][370]LogEditorActor: Deleted Actor: TargetPoint
+[2024.02.02-17.12.12:807][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.02-17.12.12:808][370]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.02-17.12.22:981][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.02-17.12.53:529][432]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2024.02.02-17.12.56:042][731]Cmd: EDIT COPY
+[2024.02.02-17.12.56:226][753]Cmd: EDIT PASTE
+[2024.02.02-17.13.00:240][233]Cmd: EDIT COPY
+[2024.02.02-17.13.00:448][258]Cmd: EDIT PASTE
+[2024.02.02-17.13.08:206][183]Cmd: EDIT COPY
+[2024.02.02-17.13.08:441][211]Cmd: EDIT PASTE
+[2024.02.02-17.13.12:318][674]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.02-17.13.17:221][261]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.02-17.13.17:974][351]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2024.02.02-17.13.18:936][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.02.02-17.13.58:885][249]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint2)
+[2024.02.02-17.13.59:960][376]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.02-17.14.17:095][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/BP_TopDownShooterGameMode_01.BP_TopDownShooterGameMode_01
+[2024.02.02-17.14.32:133][154]LogSlate: Window 'BP_TopDownShooterGameMode_01' being destroyed
+[2024.02.02-17.14.32:146][154]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-17.14.32:146][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-17.14.32:213][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/BP_TopDownShooterGameMode_01.BP_TopDownShooterGameMode_01
+[2024.02.02-17.17.47:940][696]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2024.02.02-17.17.47:965][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.02-17.18.12:066][406]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.02-17.18.12:078][406]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.02-17.24.53:133][923]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2024.02.02-17.24.53:158][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.02-17.24.56:794][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.02-17.24.56:803][321]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main_Auto90655AF584A143B9DB5F09581C46B84E1.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Main/Main_Auto9.umap'
+[2024.02.02-17.24.56:806][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.027
+[2024.02.02-17.24.56:806][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.02.02-17.24.56:806][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main/BP_TopDownShooterGameMode_01] ([2] browsable assets)...
+[2024.02.02-17.24.56:806][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/BP_TopDownShooterGameMode_01]
+[2024.02.02-17.24.56:813][321]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/BP_TopDownShooterGameMode_01_AutCFE5DFE4467C481905CE0DBD72AB57C3.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Main/BP_TopDownShooterGameMode_01_Auto9.uasset'
+[2024.02.02-17.24.56:813][321]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.02.02-17.25.50:215][342]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2024.02.02-17.25.50:239][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.02-17.25.57:104][ 69]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2024.02.02-17.25.57:130][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.02-17.29.04:539][629]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2024.02.02-17.29.04:562][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.02-17.29.34:465][165]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.02-17.29.34:471][165]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.02-17.29.34:472][165]LogPlayLevel: [PlayLevel] Compiling BP_Spider before play...
+[2024.02.02-17.29.34:505][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.02-17.29.34:509][165]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2024.02.02-17.29.34:509][165]PIE: New page: PIE session: Main (2 lut 2024, 19:29:34)
+[2024.02.02-17.29.34:509][165]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2024.02.02-17.29.34:511][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002401s)
+[2024.02.02-17.29.34:512][165]LogAIModule: Creating AISystem for world Main
+[2024.02.02-17.29.34:512][165]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2024.02.02-17.29.34:512][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003255s)
+[2024.02.02-17.29.34:525][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.02.02-17.29.34:525][165]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-17.29.34:525][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-17.29.34:525][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-17.29.34:525][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-17.29.34:525][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-17.29.34:525][165]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.02-17.29.34:527][165]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.02-17.29.34:527][165]LogAudioMixer: Display: 1: FrontRight
+[2024.02.02-17.29.34:537][165]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.02.02-17.29.34:537][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-17.29.34:537][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-17.29.34:537][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-17.29.34:538][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.02-17.29.34:538][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.02-17.29.34:538][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.02-17.29.34:538][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.02-17.29.34:538][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.02-17.29.34:538][165]LogInit: FAudioDevice initialized.
+[2024.02.02-17.29.34:538][165]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2024.02.02-17.29.34:548][165]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.02.02-17.29.34:548][165]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.02-18.29.34
+[2024.02.02-17.29.34:548][165]LogWorld: Bringing up level for play took: 0.000423
+[2024.02.02-17.29.34:549][165]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2024.02.02-17.29.34:551][165]PIE: Server logged in
+[2024.02.02-17.29.34:551][165]PIE: Play in editor total start time 0,082 seconds.
+[2024.02.02-17.29.35:321][254]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.42:621][130]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.43:487][234]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.45:763][507]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.52:563][323]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.54:671][576]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.56:421][786]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.29.57:130][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-17.29.57:130][868]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2024.02.02-17.29.57:130][868]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-17.29.57:131][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-17.29.57:137][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-17.29.57:143][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-17.29.57:153][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.02-17.29.57:153][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.02-17.29.57:154][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.02-17.29.57:156][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-17.29.57:158][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.02-17.29.57:208][871]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.02.02-17.30.15:595][907]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider
+[2024.02.02-17.31.03:218][367]BlueprintLog: New page: Compile BP_Spider
+[2024.02.02-17.31.03:257][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.02.02-17.31.42:971][524]BlueprintLog: New page: Compile BP_TopDownShooterGameMode_01
+[2024.02.02-17.31.42:999][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.02-17.31.44:978][737]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.02-17.31.44:984][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.02-17.31.44:984][737]PIE: New page: PIE session: Main (2 lut 2024, 19:31:44)
+[2024.02.02-17.31.45:008][737]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2024.02.02-17.31.45:010][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002178s)
+[2024.02.02-17.31.45:011][737]LogAIModule: Creating AISystem for world Main
+[2024.02.02-17.31.45:011][737]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2024.02.02-17.31.45:011][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003003s)
+[2024.02.02-17.31.45:026][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.02-17.31.45:027][737]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.02-17.31.45:027][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.02-17.31.45:027][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.02-17.31.45:027][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.02-17.31.45:027][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.02-17.31.45:027][737]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.02-17.31.45:029][737]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.02-17.31.45:029][737]LogAudioMixer: Display: 1: FrontRight
+[2024.02.02-17.31.45:038][737]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.02.02-17.31.45:039][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.02-17.31.45:039][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.02-17.31.45:039][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.02-17.31.45:039][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.02-17.31.45:039][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.02-17.31.45:039][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.02-17.31.45:040][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.02-17.31.45:040][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.02-17.31.45:040][737]LogInit: FAudioDevice initialized.
+[2024.02.02-17.31.45:040][737]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2024.02.02-17.31.45:045][737]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2024.02.02-17.31.45:045][737]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.02-18.31.45
+[2024.02.02-17.31.45:046][737]LogWorld: Bringing up level for play took: 0.000402
+[2024.02.02-17.31.45:046][737]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2024.02.02-17.31.45:048][737]PIE: Server logged in
+[2024.02.02-17.31.45:048][737]PIE: Play in editor total start time 0,065 seconds.
+[2024.02.02-17.31.45:872][834]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.31.56:672][130]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.31.58:914][399]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.00:897][637]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.05:806][226]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.07:189][392]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.09:898][717]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.11:207][874]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.12:457][ 24]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.13:407][138]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.20:692][ 11]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.23:926][399]LogScript: Warning: Script Msg: Soldier_C_0 Weapojn Trace SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2024.02.02-17.32.24:959][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-17.32.24:959][518]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2024.02.02-17.32.24:960][518]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.02-17.32.24:960][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-17.32.24:963][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.02-17.32.24:969][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.02-17.32.24:981][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.02-17.32.24:981][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.02-17.32.24:982][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.02-17.32.24:986][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.02.02-17.32.25:026][522]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.02.02-17.32.27:465][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Main" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-17.32.27:479][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.02-17.32.27:489][810]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/MainBA1800B34D05BE75D3CAC58596EB2AE3.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main.umap'
+[2024.02.02-17.32.27:498][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Main_BuiltData" FILE="../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main_BuiltData.uasset" SILENT=true
+[2024.02.02-17.32.27:513][810]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Saved/Main_BuiltData9270CFA04B8B441BFAC95E9FA1B0D88B.tmp' to '../../../../../../Users/PC/Desktop/rok1.gr1.TopDownShooter/TopDownShooter/Content/Main/Main_BuiltData.uasset'
+[2024.02.02-17.32.27:524][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.02-17.32.27:524][810]LogContentValidation: Display: Validating World /Game/Main/Main.Main
+[2024.02.02-17.32.27:524][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main/Main_BuiltData.Main_BuiltData
